@@ -32,12 +32,18 @@ For future use
 
 </p>
 
-### - Blogs 🌱
+### Blogs 🌱
 
 <p align="center">
 <a href="https://dev.to/rishabk7/">
     <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
+
+
+
+
+
+<em>Badges by [Mike James](https://github.com/MikeCodesDotNET) </em>
 
 <!--
 **rishabkumar7/rishabkumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
