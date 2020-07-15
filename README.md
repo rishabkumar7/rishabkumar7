@@ -11,8 +11,6 @@
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-
-<br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/1uLQUtPLbJMQ0/giphy.gif" />
 <br />
 
