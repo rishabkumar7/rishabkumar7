@@ -45,7 +45,7 @@ For future use
 <br/>
 <br/>
 
-<em>Badges by</em> [Mike](https://github.com/MikeCodesDotNET)
+<em>Badges by</em> [Mike](https://github.com/MikeCodesDotNET) | 
 <em>Stats by</em> [Anurag](https://github.com/anuraghazra)
 
 <!--
