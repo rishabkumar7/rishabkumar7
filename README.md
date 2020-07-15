@@ -45,7 +45,8 @@ For future use
 <br/>
 <br/>
 
-<em>Badges by</em> [Mike James](https://github.com/MikeCodesDotNET)
+<em>Badges by</em> [Mike](https://github.com/MikeCodesDotNET)
+<em>Stats by</em> [Anurag](https://github.com/anuraghazra)
 
 <!--
 **rishabkumar7/rishabkumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
