@@ -1,7 +1,4 @@
 ### Hi there I am [Rishab](https://rishabkumar.com)👋 
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/1uLQUtPLbJMQ0/giphy.gif" />
-
 <br/>
 <a href="https://twitter.com/rishabk7">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -13,6 +10,7 @@
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <br/>
+
 
 ### My Github Stats 📊
 [![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
