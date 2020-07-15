@@ -34,15 +34,14 @@ For future use
 
 ### Blogs 🌱
 
-<p align="center">
 <a href="https://dev.to/rishabk7/">
     <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>  
+</a>
+<a href="https://blog.rishabkumar.ga/>
+  <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/wordpress.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>
 
-
-
-
-
+<br/>
 <em>Badges by [Mike James](https://github.com/MikeCodesDotNET) </em>
 
 <!--
