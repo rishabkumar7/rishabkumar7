@@ -1,5 +1,10 @@
 ### Hi there I am [Rishab](https://rishabkumar.com)👋 
 <br/>
+![Website](https://img.shields.io/website?label=rishabkumar.com&style=flat-square&url=https%3A%2F%2Frishabkumar.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/rishabk7?logo=Twitter&style=flat-square)
+
+
+Social
 <a href="https://twitter.com/rishabk7">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
