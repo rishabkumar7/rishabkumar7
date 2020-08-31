@@ -20,8 +20,9 @@ Social
 <br/>
 
 <details>
-<summary>### My Github Stats 📊</summary>
+<summary> ### My Github Stats 📊</summary>
 <br>
+  
 [![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 For future use
@@ -32,7 +33,9 @@ For future use
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 -->
+
 </details>
+
 ### My Github Stats 📊
 [![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <!--
