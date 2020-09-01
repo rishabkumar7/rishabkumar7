@@ -4,6 +4,21 @@
 ![Website](https://img.shields.io/website?label=rishabkumar.com&style=flat-square&url=https%3A%2F%2Frishabkumar.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishabk7?logo=Twitter&style=flat-square)
 
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+<img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
+</p>
+
+### Blogs 🌱
+
+<a href="https://dev.to/rishabk7/">
+    <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://blog.rishabkumar.com/">
+  <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/wordpress.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>
 
 Social
 <a href="https://twitter.com/rishabk7">
@@ -45,27 +60,11 @@ For future use
 5. 🗣 Commented on [#27](https://github.com//100DaysOfCloud/100DaysOfCloudFrontend/issues/27) in [100DaysOfCloud/100DaysOfCloudFrontend](https://github.com//100DaysOfCloud/100DaysOfCloudFrontend)
 <!--END_SECTION:activity-->
 
-### Languages and tools ⚙️
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<p>
-<img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-</p>
 
-### Blogs 🌱
-
-<a href="https://dev.to/rishabk7/">
-    <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://blog.rishabkumar.com/">
-  <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/wordpress.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>
 
 <br/>
 <br/>
-
-<em>Badges by</em> [Mike](https://github.com/MikeCodesDotNET) | 
-<em>Stats by</em> [Anurag](https://github.com/anuraghazra)
 
 <!--
 **rishabkumar7/rishabkumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
