@@ -54,11 +54,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/thedevdojo/tails/issues/5) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 💪 Opened PR [#99](https://github.com/thedevdojo/tails/pull/99) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/CloudNotesApp/pull/1) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
+2. 💪 Opened PR [#1](https://github.com/rishabkumar7/CloudNotesApp/pull/1) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
 3. 🗣 Commented on [#5](https://github.com/thedevdojo/tails/issues/5) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#711](https://github.com/peers/peerjs/issues/711) in [peers/peerjs](https://github.com/peers/peerjs)
-5. 🎉 Merged PR [#6](https://github.com/rishabkumar7/personalPortfolio_v4/pull/6) in [rishabkumar7/personalPortfolio_v4](https://github.com/rishabkumar7/personalPortfolio_v4)
+4. 💪 Opened PR [#99](https://github.com/thedevdojo/tails/pull/99) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#5](https://github.com/thedevdojo/tails/issues/5) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 
