@@ -54,11 +54,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/gradebook-CSharp/pull/1) in [rishabkumar7/gradebook-CSharp](https://github.com/rishabkumar7/gradebook-CSharp)
-2. 💪 Opened PR [#1](https://github.com/rishabkumar7/gradebook-CSharp/pull/1) in [rishabkumar7/gradebook-CSharp](https://github.com/rishabkumar7/gradebook-CSharp)
-3. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotesApp/pull/2) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
-4. 💪 Opened PR [#2](https://github.com/rishabkumar7/CloudNotesApp/pull/2) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
-5. 🎉 Merged PR [#1](https://github.com/rishabkumar7/CloudNotesApp/pull/1) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
+1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/url-shortener/pull/1) in [rishabkumar7/url-shortener](https://github.com/rishabkumar7/url-shortener)
+2. 💪 Opened PR [#1](https://github.com/rishabkumar7/url-shortener/pull/1) in [rishabkumar7/url-shortener](https://github.com/rishabkumar7/url-shortener)
+3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/gradebook-CSharp/pull/1) in [rishabkumar7/gradebook-CSharp](https://github.com/rishabkumar7/gradebook-CSharp)
+4. 💪 Opened PR [#1](https://github.com/rishabkumar7/gradebook-CSharp/pull/1) in [rishabkumar7/gradebook-CSharp](https://github.com/rishabkumar7/gradebook-CSharp)
+5. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotesApp/pull/2) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
 <!--END_SECTION:activity-->
 
 
