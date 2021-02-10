@@ -14,6 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Pokedex Next App to GCP App Engine](https://blog.rishabkumar.com/deploying-pokedex-next-app-to-gcp-app-engine)
+- [Cloud Certification Notes Next App - Hackathon](https://blog.rishabkumar.com/cloud-certification-notes-next-app-hackathon)
+- [Pokedex with Next.js and serving it with Docker](https://blog.rishabkumar.com/pokedex-with-nextjs-and-serving-it-with-docker)
+- [How to add a logo or GIF to Windows Terminal App](https://blog.rishabkumar.com/how-to-add-a-logo-or-gif-to-windows-terminal-app)
+- [What is Linux and why you should learn it? Free resource included!](https://blog.rishabkumar.com/what-is-linux-and-why-you-should-learn-it-free-resource-included)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://dev.to/rishabk7/">
