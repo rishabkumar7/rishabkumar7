@@ -1,5 +1,14 @@
 ### Hi there I am [Rishab](https://rishabkumar.com)👋 
 <br/>
+<a href="https://twitter.com/rishabk7">
+  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rishabkumar7/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.reddit.com/user/rishabkumar7">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 
 ![Website](https://img.shields.io/website?label=rishabkumar.com&style=flat-square&url=https%3A%2F%2Frishabkumar.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishabk7?logo=Twitter&style=flat-square)
@@ -15,7 +24,6 @@
 ### My Github Stats 📊
 
 <br>
-  
 [![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 For future use
@@ -56,20 +64,8 @@ For future use
   <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/wordpress.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>
 
-
-### Social
-<a href="https://twitter.com/rishabk7">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rishabkumar7/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.reddit.com/user/rishabkumar7">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 <br/>
 
-<br/>
 
 
 <br/>
