@@ -11,6 +11,34 @@
 
 </p>
 
+
+### My Github Stats 📊
+
+<br>
+  
+[![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+For future use
+<a href="https://www.instagram.com/hemant.gz/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com//">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+-->
+
+
+
+### ✨ My Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/CloudNotes/pull/1) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+2. 💪 Opened PR [#1](https://github.com/rishabkumar7/CloudNotes/pull/1) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+3. 🎉 Merged PR [#4](https://github.com/rishabkumar7/covid-19/pull/4) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
+4. 💪 Opened PR [#79](https://github.com/CloudFamily/CloudFamily/pull/79) in [CloudFamily/CloudFamily](https://github.com/CloudFamily/CloudFamily)
+5. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotesApp/pull/2) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
+<!--END_SECTION:activity-->
+
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -42,34 +70,6 @@
 <br/>
 
 <br/>
-
-### My Github Stats 📊
-
-<br>
-  
-[![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-For future use
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
--->
-
-
-
-### ✨ My Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/CloudNotes/pull/1) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-2. 💪 Opened PR [#1](https://github.com/rishabkumar7/CloudNotes/pull/1) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-3. 🎉 Merged PR [#4](https://github.com/rishabkumar7/covid-19/pull/4) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
-4. 💪 Opened PR [#79](https://github.com/CloudFamily/CloudFamily/pull/79) in [CloudFamily/CloudFamily](https://github.com/CloudFamily/CloudFamily)
-5. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotesApp/pull/2) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
-<!--END_SECTION:activity-->
-
-
 
 
 <br/>
