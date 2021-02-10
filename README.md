@@ -11,7 +11,10 @@
 
 </p>
 
-### Blogs 🌱
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <a href="https://dev.to/rishabk7/">
     <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
