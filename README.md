@@ -57,10 +57,10 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/url-shortener/pull/1) in [rishabkumar7/url-shortener](https://github.com/rishabkumar7/url-shortener)
-2. 💪 Opened PR [#1](https://github.com/rishabkumar7/url-shortener/pull/1) in [rishabkumar7/url-shortener](https://github.com/rishabkumar7/url-shortener)
-3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/gradebook-CSharp/pull/1) in [rishabkumar7/gradebook-CSharp](https://github.com/rishabkumar7/gradebook-CSharp)
-4. 💪 Opened PR [#1](https://github.com/rishabkumar7/gradebook-CSharp/pull/1) in [rishabkumar7/gradebook-CSharp](https://github.com/rishabkumar7/gradebook-CSharp)
+1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/CloudNotes/pull/1) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+2. 💪 Opened PR [#1](https://github.com/rishabkumar7/CloudNotes/pull/1) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+3. 🎉 Merged PR [#4](https://github.com/rishabkumar7/covid-19/pull/4) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
+4. 💪 Opened PR [#79](https://github.com/CloudFamily/CloudFamily/pull/79) in [CloudFamily/CloudFamily](https://github.com/CloudFamily/CloudFamily)
 5. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotesApp/pull/2) in [rishabkumar7/CloudNotesApp](https://github.com/rishabkumar7/CloudNotesApp)
 <!--END_SECTION:activity-->
 
