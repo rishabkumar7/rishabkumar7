@@ -3,6 +3,7 @@ name: Update Blog Posts
 on:
   schedule:
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -10,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: rishabkumar7/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://blog.rishabkumar.com/rss.xml"
