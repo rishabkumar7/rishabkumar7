@@ -1,9 +1,7 @@
-name: Blog Posts
+name: Update Blog Posts
 
 on:
-  # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
     - cron: '0 * * * *'
 
 jobs:
