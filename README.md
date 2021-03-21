@@ -50,11 +50,11 @@ For future use
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How easy it is to deploy with Azure Static Web Apps](https://blog.rishabkumar.com/how-easy-it-is-to-deploy-with-azure-static-web-apps)
 - [My 2021 Certification goals](https://blog.rishabkumar.com/my-2021-certification-goals)
 - [A Git CLI cheatSheet](https://blog.rishabkumar.com/a-git-cli-cheatsheet)
 - [Deploying Pokedex Next App to GCP App Engine](https://blog.rishabkumar.com/deploying-pokedex-next-app-to-gcp-app-engine)
 - [Cloud Certification Notes Next App - Hackathon](https://blog.rishabkumar.com/cloud-certification-notes-next-app-hackathon)
-- [Pokedex with Next.js and serving it with Docker](https://blog.rishabkumar.com/pokedex-with-nextjs-and-serving-it-with-docker)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://dev.to/rishabk7/">
