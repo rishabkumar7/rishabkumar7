@@ -30,8 +30,6 @@ For future use
 </a>
 -->
 
-
-
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/rishabkumar7/mooz/pull/3) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
@@ -52,9 +50,6 @@ For future use
 - [Cloud Certification Notes Next App - Hackathon](https://blog.rishabkumar.com/cloud-certification-notes-next-app-hackathon)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://dev.to/rishabk7/">
-    <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>
 <a href="https://blog.rishabkumar.com/">
   <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/wordpress.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>
