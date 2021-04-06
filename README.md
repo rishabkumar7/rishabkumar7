@@ -1,17 +1,7 @@
 ### Hi there I am [Rishab](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
-<a href="https://twitter.com/rishabk7">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rishabkumar7/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.reddit.com/user/rishabkumar7">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 
-
-![Website](https://img.shields.io/website?label=rishabkumar.com&style=flat-square&url=https%3A%2F%2Frishabkumar.com) ![Twitter Follow](https://img.shields.io/twitter/follow/rishabk7?logo=Twitter&style=flat-square) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
+![twitter-follower](https://img.shields.io/twitter/follow/rishabk7?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
