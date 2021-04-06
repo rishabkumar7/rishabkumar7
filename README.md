@@ -10,7 +10,8 @@
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-![Website](https://img.shields.io/website?label=rishabkumar.com&style=flat-square&url=https%3A%2F%2Frishabkumar.com) ![Twitter Follow](https://img.shields.io/twitter/follow/rishabk7?logo=Twitter&style=flat-square) ![github-sponsors](https://img.shields.io/github/sponsors/catalinpit?label=GitHub%20Sponsors&style=social)
+
+![Website](https://img.shields.io/website?label=rishabkumar.com&style=flat-square&url=https%3A%2F%2Frishabkumar.com) ![Twitter Follow](https://img.shields.io/twitter/follow/rishabk7?logo=Twitter&style=flat-square) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -29,7 +30,6 @@
 <a href="https://github.com/rishabkumar7/rishabkumar7">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
 </a>
-[![Rishab's github stats](https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 For future use
 <a href="https://www.instagram.com/hemant.gz/">
