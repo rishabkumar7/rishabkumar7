@@ -29,11 +29,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is WSL and how to use it with VSCode](https://blog.rishabkumar.com/what-is-wsl-and-how-to-use-it-with-vscode)
 - [How easy it is to deploy with Azure Static Web Apps](https://blog.rishabkumar.com/how-easy-it-is-to-deploy-with-azure-static-web-apps)
 - [My 2021 Certification goals](https://blog.rishabkumar.com/my-2021-certification-goals)
 - [A Git CLI cheatSheet](https://blog.rishabkumar.com/a-git-cli-cheatsheet)
 - [Deploying Pokedex Next App to GCP App Engine](https://blog.rishabkumar.com/deploying-pokedex-next-app-to-gcp-app-engine)
-- [Cloud Certification Notes Next App - Hackathon](https://blog.rishabkumar.com/cloud-certification-notes-next-app-hackathon)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://blog.rishabkumar.com)
 
