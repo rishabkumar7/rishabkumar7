@@ -13,6 +13,28 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How easy it is to deploy with Azure Static Web Apps](https://blog.rishabkumar.com/how-easy-it-is-to-deploy-with-azure-static-web-apps)
+- [My 2021 Certification goals](https://blog.rishabkumar.com/my-2021-certification-goals)
+- [A Git CLI cheatSheet](https://blog.rishabkumar.com/a-git-cli-cheatsheet)
+- [Deploying Pokedex Next App to GCP App Engine](https://blog.rishabkumar.com/deploying-pokedex-next-app-to-gcp-app-engine)
+- [Cloud Certification Notes Next App - Hackathon](https://blog.rishabkumar.com/cloud-certification-notes-next-app-hackathon)
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://blog.rishabkumar.com)
+
+---
+
 ### My Github Stats 📊
 
 <a href="https://github.com/rishabkumar7/rishabkumar7">
@@ -41,21 +63,6 @@ For future use
 4. ❗️ Opened issue [#2](https://github.com/rishabkumar7/mooz/issues/2) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
 5. ❗️ Opened issue [#1](https://github.com/rishabkumar7/mooz/issues/1) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
 <!--END_SECTION:activity-->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How easy it is to deploy with Azure Static Web Apps](https://blog.rishabkumar.com/how-easy-it-is-to-deploy-with-azure-static-web-apps)
-- [My 2021 Certification goals](https://blog.rishabkumar.com/my-2021-certification-goals)
-- [A Git CLI cheatSheet](https://blog.rishabkumar.com/a-git-cli-cheatsheet)
-- [Deploying Pokedex Next App to GCP App Engine](https://blog.rishabkumar.com/deploying-pokedex-next-app-to-gcp-app-engine)
-- [Cloud Certification Notes Next App - Hackathon](https://blog.rishabkumar.com/cloud-certification-notes-next-app-hackathon)
-<!-- BLOG-POST-LIST:END -->
-
-<a href="https://blog.rishabkumar.com/">
-  <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/wordpress.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>
 
 <br/>
 
