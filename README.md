@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/rishabkumar7/mooz/pull/5) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
-2. ❗️ Closed issue [#4](https://github.com/rishabkumar7/mooz/issues/4) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
-3. 💪 Opened PR [#5](https://github.com/rishabkumar7/mooz/pull/5) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
-4. ❗️ Opened issue [#4](https://github.com/rishabkumar7/mooz/issues/4) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
-5. 🎉 Merged PR [#3](https://github.com/rishabkumar7/mooz/pull/3) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
+1. 🗣 Commented on [#1](https://github.com/rishabkumar7/LearningKubernetes/issues/1) in [rishabkumar7/LearningKubernetes](https://github.com/rishabkumar7/LearningKubernetes)
+2. 🎉 Merged PR [#5](https://github.com/rishabkumar7/mooz/pull/5) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
+3. ❗️ Closed issue [#4](https://github.com/rishabkumar7/mooz/issues/4) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
+4. 💪 Opened PR [#5](https://github.com/rishabkumar7/mooz/pull/5) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
+5. ❗️ Opened issue [#4](https://github.com/rishabkumar7/mooz/issues/4) in [rishabkumar7/mooz](https://github.com/rishabkumar7/mooz)
 <!--END_SECTION:activity-->
 
 <br/>
