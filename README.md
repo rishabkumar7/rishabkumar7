@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rishabkumar7/covid-19/pull/6) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
-2. 🗣 Commented on [#2](https://github.com/100daysofkubernetes/100DaysOfKubernetes/issues/2) in [100daysofkubernetes/100DaysOfKubernetes](https://github.com/100daysofkubernetes/100DaysOfKubernetes)
-3. 🎉 Merged PR [#2](https://github.com/rishabkumar7/covid-19/pull/2) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
-4. 🎉 Merged PR [#5](https://github.com/rishabkumar7/covid-19/pull/5) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
-5. 🗣 Commented on [#1](https://github.com/rishabkumar7/LearningKubernetes/issues/1) in [rishabkumar7/LearningKubernetes](https://github.com/rishabkumar7/LearningKubernetes)
+1. 💪 Opened PR [#99](https://github.com/markodenic/awesome-tech-blogs/pull/99) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 🎉 Merged PR [#6](https://github.com/rishabkumar7/covid-19/pull/6) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
+3. 🗣 Commented on [#2](https://github.com/100daysofkubernetes/100DaysOfKubernetes/issues/2) in [100daysofkubernetes/100DaysOfKubernetes](https://github.com/100daysofkubernetes/100DaysOfKubernetes)
+4. 🎉 Merged PR [#2](https://github.com/rishabkumar7/covid-19/pull/2) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
+5. 🎉 Merged PR [#5](https://github.com/rishabkumar7/covid-19/pull/5) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
 <!--END_SECTION:activity-->
 
 <br/>
