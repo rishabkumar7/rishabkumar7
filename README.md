@@ -20,7 +20,7 @@
 - [Friday Chill Stream - Rocket League](https://www.youtube.com/watch?v=W_H2Xj-DEbQ)
 - [CloudSkills Giveaway Winners 📢](https://www.youtube.com/watch?v=68vvlwrx0r0)
 - [Massive Tech Swag Unboxing | Hacktoberfest 2020 | AWS Community Builders | DEV.TO | CodeNewBie](https://www.youtube.com/watch?v=ZyzTyx2ekCU)
-- [A Ride In India](https://www.youtube.com/watch?v=iEidPv3zXw0)
+- [A Ride In India | City of Hoshiarpur, Punjab](https://www.youtube.com/watch?v=iEidPv3zXw0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
