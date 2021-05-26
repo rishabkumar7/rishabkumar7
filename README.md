@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Unboxing Linux Swag | System76 | PopOS](https://www.youtube.com/watch?v=nmAGb4OpJsI)
 - [Friday Chill Stream - Rocket League](https://www.youtube.com/watch?v=W_H2Xj-DEbQ)
 - [CloudSkills Giveaway Winners 📢](https://www.youtube.com/watch?v=68vvlwrx0r0)
 - [Massive Tech Swag Unboxing | Hacktoberfest 2020 | AWS Community Builders | DEV.TO | CodeNewBie](https://www.youtube.com/watch?v=ZyzTyx2ekCU)
 - [A Ride In India](https://www.youtube.com/watch?v=iEidPv3zXw0)
-- [Free Linux Learning Resources | Start with Linux](https://www.youtube.com/watch?v=p4WqTW1D_Rc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
