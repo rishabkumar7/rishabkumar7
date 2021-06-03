@@ -29,11 +29,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AZ-104 Study Guide: Azure Administrator](https://blog.rishabkumar.com/az-104-study-guide-azure-administrator)
 - [A Cloud Guru Azure Resume Challenge 2021](https://blog.rishabkumar.com/a-cloud-guru-azure-resume-challenge-2021)
 - [How I passed the SC-900 Microsoft Security, Compliance, and Identity Fundamentals exam](https://blog.rishabkumar.com/how-i-passed-the-sc-900-microsoft-security-compliance-and-identity-fundamentals-exam)
 - [Adding custom domain and SSL certificate Azure Static Web Apps](https://blog.rishabkumar.com/adding-custom-domain-and-ssl-certificate-azure-static-web-apps)
 - [What is WSL and how to use it with VSCode](https://blog.rishabkumar.com/what-is-wsl-and-how-to-use-it-with-vscode)
-- [How easy it is to deploy with Azure Static Web Apps](https://blog.rishabkumar.com/how-easy-it-is-to-deploy-with-azure-static-web-apps)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://blog.rishabkumar.com)
 
