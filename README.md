@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/2) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-2. 💪 Opened PR [#807](https://github.com/education/GitHubGraduation-2021/pull/807) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-3. 💪 Opened PR [#99](https://github.com/markodenic/awesome-tech-blogs/pull/99) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🎉 Merged PR [#6](https://github.com/rishabkumar7/covid-19/pull/6) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
-5. 🗣 Commented on [#2](https://github.com/100daysofkubernetes/100DaysOfKubernetes/issues/2) in [100daysofkubernetes/100DaysOfKubernetes](https://github.com/100daysofkubernetes/100DaysOfKubernetes)
+1. 💪 Opened PR [#4](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/4) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+2. 💪 Opened PR [#2](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/2) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+3. 💪 Opened PR [#807](https://github.com/education/GitHubGraduation-2021/pull/807) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+4. 💪 Opened PR [#99](https://github.com/markodenic/awesome-tech-blogs/pull/99) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🎉 Merged PR [#6](https://github.com/rishabkumar7/covid-19/pull/6) in [rishabkumar7/covid-19](https://github.com/rishabkumar7/covid-19)
 <!--END_SECTION:activity-->
 
 <br/>
