@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How I passed Azure Fundamentals AZ-900 exam | My experience](https://www.youtube.com/watch?v=Pe4Rq_mvadE)
 - [How I passed the Microsoft Azure SC-900 Security Fundamentals exam | My experience](https://www.youtube.com/watch?v=tNWQ1Easqc4)
 - [How I passed the Azure Data Fundamentals DP-900 Exam | Free Voucher & Course](https://www.youtube.com/watch?v=j6eeRrt13nw)
 - [How I passed exam AZ-104 Microsoft Azure Administrator Associate Certificate | My experience](https://www.youtube.com/watch?v=QQQWwPoFQN8)
 - [person with a mechanical keyboard](https://www.youtube.com/watch?v=M0swuFGN7xg)
-- [Unboxing Linux Swag | System76 | PopOS](https://www.youtube.com/watch?v=nmAGb4OpJsI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
