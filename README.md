@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/6) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-2. 💪 Opened PR [#4](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/4) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-3. 💪 Opened PR [#2](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/2) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-4. 💪 Opened PR [#807](https://github.com/education/GitHubGraduation-2021/pull/807) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 💪 Opened PR [#99](https://github.com/markodenic/awesome-tech-blogs/pull/99) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
+2. 💪 Opened PR [#6](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/6) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+3. 💪 Opened PR [#4](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/4) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+4. 💪 Opened PR [#2](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/2) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+5. 💪 Opened PR [#807](https://github.com/education/GitHubGraduation-2021/pull/807) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 <!--END_SECTION:activity-->
 
 <br/>
