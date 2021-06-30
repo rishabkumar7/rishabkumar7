@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
-2. 💪 Opened PR [#6](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/6) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-3. 💪 Opened PR [#4](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/4) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-4. 💪 Opened PR [#2](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/2) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-5. 💪 Opened PR [#807](https://github.com/education/GitHubGraduation-2021/pull/807) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
+2. 💪 Opened PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
+3. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
+4. 💪 Opened PR [#6](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/6) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+5. 💪 Opened PR [#4](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/4) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
 <!--END_SECTION:activity-->
 
 <br/>
