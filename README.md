@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learning C# | Study with me live 🔴](https://www.youtube.com/watch?v=vP8um79JMTo)
 - [How they started their tech careers | Episode 1](https://www.youtube.com/watch?v=1WetZ3DlwUY)
 - [My Desk Setup 2021](https://www.youtube.com/watch?v=DXqyDBbpTyc)
 - [How I passed Azure Fundamentals AZ-900 exam | My experience](https://www.youtube.com/watch?v=Pe4Rq_mvadE)
 - [How I passed the Microsoft Azure SC-900 Security Fundamentals exam | My experience](https://www.youtube.com/watch?v=tNWQ1Easqc4)
-- [How I passed the Azure Data Fundamentals DP-900 Exam | Free Voucher & Course](https://www.youtube.com/watch?v=j6eeRrt13nw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
