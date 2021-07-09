@@ -19,7 +19,7 @@
 - [Learning C# - 2 | Study with me live 🔴](https://www.youtube.com/watch?v=Bqu7RHD2uIQ)
 - [How to register a FREE DOMAIN 2021](https://www.youtube.com/watch?v=UlnniPANUZo)
 - [Learning C# | Study with me live 🔴](https://www.youtube.com/watch?v=vP8um79JMTo)
-- [How they started their tech careers | Episode 1](https://www.youtube.com/watch?v=1WetZ3DlwUY)
+- [How they started their tech careers with John Lunn | Episode 1](https://www.youtube.com/watch?v=1WetZ3DlwUY)
 - [My Desk Setup 2021](https://www.youtube.com/watch?v=DXqyDBbpTyc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
