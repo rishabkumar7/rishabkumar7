@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learning C# - 2 | Study with me live 🔴](https://www.youtube.com/watch?v=Bqu7RHD2uIQ)
 - [How to register a FREE DOMAIN 2021](https://www.youtube.com/watch?v=UlnniPANUZo)
 - [Learning C# | Study with me live 🔴](https://www.youtube.com/watch?v=vP8um79JMTo)
 - [How they started their tech careers with John Lunn | Episode 1](https://www.youtube.com/watch?v=1WetZ3DlwUY)
 - [My Desk Setup 2021](https://www.youtube.com/watch?v=DXqyDBbpTyc)
-- [How I passed Azure Fundamentals AZ-900 exam | My experience](https://www.youtube.com/watch?v=Pe4Rq_mvadE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
