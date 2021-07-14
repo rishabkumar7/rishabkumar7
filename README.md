@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/9) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-2. 🎉 Merged PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
-3. 💪 Opened PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
-4. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
-5. 💪 Opened PR [#6](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/6) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+1. 💪 Opened PR [#10](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/10) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+2. 💪 Opened PR [#9](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/9) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
+4. 💪 Opened PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
+5. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
 <!--END_SECTION:activity-->
 
 <br/>
