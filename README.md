@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [July 23, 2021](https://www.youtube.com/watch?v=8-aqtlZXAx4)
 - [How they started their tech careers with Anais Urlichs | Episode 2 | #100DaysOfKubernetes](https://www.youtube.com/watch?v=pfMUm9w2HOg)
 - [m1 MacBook Air Unboxing | My first MacBook | ASMR](https://www.youtube.com/watch?v=zSOKK-NAZC8)
 - [Deploying to Azure Static Web Apps](https://www.youtube.com/watch?v=w3EtqEw7_x0)
 - [Learning C# - 2 | Study with me live 🔴](https://www.youtube.com/watch?v=Bqu7RHD2uIQ)
-- [How to register a FREE DOMAIN 2021](https://www.youtube.com/watch?v=UlnniPANUZo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
