@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/10) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-2. 💪 Opened PR [#9](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/9) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
-4. 💪 Opened PR [#1](https://github.com/rishabkumar7/faceDetection/pull/1) in [rishabkumar7/faceDetection](https://github.com/rishabkumar7/faceDetection)
-5. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
+1. 🎉 Merged PR [#5](https://github.com/rishabkumar7/weatherDashboard/pull/5) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
+2. 🎉 Merged PR [#8](https://github.com/rishabkumar7/weatherDashboard/pull/8) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
+3. 🎉 Merged PR [#9](https://github.com/rishabkumar7/weatherDashboard/pull/9) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
+4. 🎉 Merged PR [#10](https://github.com/rishabkumar7/weatherDashboard/pull/10) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
+5. 🎉 Merged PR [#11](https://github.com/rishabkumar7/weatherDashboard/pull/11) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
 <!--END_SECTION:activity-->
 
 <br/>
