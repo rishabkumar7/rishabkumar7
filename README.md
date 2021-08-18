@@ -19,8 +19,8 @@
 - [Azure Functions and SignalR Coworking GPS + Rishab](https://www.youtube.com/watch?v=2ZPRcuc2qTI)
 - [How I became a Cloud Engineer with no computer science degree](https://www.youtube.com/watch?v=LZuWZ0SBYm8)
 - [lofi beats study/relax to](https://www.youtube.com/watch?v=MOH7RFm74uI)
+- [lofi beats study/relax to](https://www.youtube.com/watch?v=0haeS1MJGF8)
 - [lofi beats study/relax to](https://www.youtube.com/watch?v=ijj30b7bOWg)
-- [What I have been working on - AWS Cheat sheets](https://www.youtube.com/watch?v=x5ks8SkajqA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
