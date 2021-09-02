@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/13) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-2. 💪 Opened PR [#1](https://github.com/madebygps/crypto-ticker-dotnet/pull/1) in [madebygps/crypto-ticker-dotnet](https://github.com/madebygps/crypto-ticker-dotnet)
-3. 🎉 Merged PR [#5](https://github.com/rishabkumar7/weatherDashboard/pull/5) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
-4. 🎉 Merged PR [#8](https://github.com/rishabkumar7/weatherDashboard/pull/8) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
-5. 🎉 Merged PR [#9](https://github.com/rishabkumar7/weatherDashboard/pull/9) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
+1. 💪 Opened PR [#2](https://github.com/madebygps/crypto-ticker-dotnet/pull/2) in [madebygps/crypto-ticker-dotnet](https://github.com/madebygps/crypto-ticker-dotnet)
+2. 💪 Opened PR [#13](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/13) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+3. 💪 Opened PR [#1](https://github.com/madebygps/crypto-ticker-dotnet/pull/1) in [madebygps/crypto-ticker-dotnet](https://github.com/madebygps/crypto-ticker-dotnet)
+4. 🎉 Merged PR [#5](https://github.com/rishabkumar7/weatherDashboard/pull/5) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
+5. 🎉 Merged PR [#8](https://github.com/rishabkumar7/weatherDashboard/pull/8) in [rishabkumar7/weatherDashboard](https://github.com/rishabkumar7/weatherDashboard)
 <!--END_SECTION:activity-->
 
 <br/>
