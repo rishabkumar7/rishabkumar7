@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Deploying static site to Azure Storage with Terraform](https://www.youtube.com/watch?v=nm-sJwVQr-A)
 - [Cloud, Code, Life| EP 9](https://www.youtube.com/watch?v=kpUt6mAXO1g)
 - [Thursday stream! money/salaries, life updates, etc](https://www.youtube.com/watch?v=x-SQasJI0zE)
 - [Thursday stream!](https://www.youtube.com/watch?v=zKRKBVUHQUY)
 - [How to get into Cloud Computing](https://www.youtube.com/watch?v=OGEDXsoL_10)
-- [Azure Functions and SignalR Coworking GPS + Rishab](https://www.youtube.com/watch?v=2ZPRcuc2qTI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
