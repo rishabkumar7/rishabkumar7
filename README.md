@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/17) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-2. 💪 Opened PR [#17](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/17) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-3. 💪 Opened PR [#16](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/16) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-4. 💪 Opened PR [#15](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/15) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-5. 💪 Opened PR [#2](https://github.com/madebygps/crypto-ticker-dotnet/pull/2) in [madebygps/crypto-ticker-dotnet](https://github.com/madebygps/crypto-ticker-dotnet)
+1. 💪 Opened PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
+2. 🎉 Merged PR [#17](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/17) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+3. 💪 Opened PR [#17](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/17) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+4. 💪 Opened PR [#16](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/16) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+5. 💪 Opened PR [#15](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/15) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
 <!--END_SECTION:activity-->
 
 <br/>
