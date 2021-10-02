@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
-2. 💪 Opened PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
-3. ❌ Closed PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
-4. 💪 Opened PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
-5. 🎉 Merged PR [#17](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/17) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+1. 💪 Opened PR [#19](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/19) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+2. 🎉 Merged PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
+3. 💪 Opened PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
+4. ❌ Closed PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
+5. 💪 Opened PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
 <!--END_SECTION:activity-->
 
 <br/>
