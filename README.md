@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [LIVE!! hacktoberfest, facebook is down, and more!](https://www.youtube.com/watch?v=PBHGeEr4xyc)
 - [How they started their Tech Career with Lou Bichard | Episode 3](https://www.youtube.com/watch?v=0aYhvnU3x3w)
 - [Help desk to Cloud Engineer | AMA](https://www.youtube.com/watch?v=OLA5NEhT1M4)
 - [cloud chat](https://www.youtube.com/watch?v=yLOpORyAioY)
 - [Deploying static site to Azure Storage with Terraform](https://www.youtube.com/watch?v=nm-sJwVQr-A)
-- [Cloud, Code, Life| EP 9](https://www.youtube.com/watch?v=kpUt6mAXO1g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
