@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/19) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
-2. 🎉 Merged PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
-3. 💪 Opened PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
-4. ❌ Closed PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
-5. 💪 Opened PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
+1. 🗣 Commented on [#125](https://github.com/insidesherpa/JPMC-tech-task-1-PY3/issues/125) in [insidesherpa/JPMC-tech-task-1-PY3](https://github.com/insidesherpa/JPMC-tech-task-1-PY3)
+2. 💪 Opened PR [#19](https://github.com/madebygps/self-taught-guide-to-cloud-computing/pull/19) in [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
+3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
+4. 💪 Opened PR [#1](https://github.com/rishabkumar7/crypto-ticker-dotnet/pull/1) in [rishabkumar7/crypto-ticker-dotnet](https://github.com/rishabkumar7/crypto-ticker-dotnet)
+5. ❌ Closed PR [#1](https://github.com/rishabkumar7/blazor-wasm-docker/pull/1) in [rishabkumar7/blazor-wasm-docker](https://github.com/rishabkumar7/blazor-wasm-docker)
 <!--END_SECTION:activity-->
 
 <br/>
