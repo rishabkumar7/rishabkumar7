@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Gitpod first impressions | IDE in browser | VSCode](https://www.youtube.com/watch?v=XLOwNev0TM0)
 - [Advanced Terraform with remote backend | Azure Storage](https://www.youtube.com/watch?v=kEcaDJC7db8)
 - [cloud and chill stream!](https://www.youtube.com/watch?v=7bVTDqefjEE)
 - [LIVE!! hacktoberfest, facebook is down, and more!](https://www.youtube.com/watch?v=PBHGeEr4xyc)
 - [How they started their Tech Career with Lou Bichard | Episode 3](https://www.youtube.com/watch?v=0aYhvnU3x3w)
-- [Help desk to Cloud Engineer | AMA](https://www.youtube.com/watch?v=OLA5NEhT1M4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
