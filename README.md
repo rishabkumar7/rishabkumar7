@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
-2. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
+1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotes/pull/2) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+2. 💪 Opened PR [#2](https://github.com/rishabkumar7/CloudNotes/pull/2) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
 3. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
-4. 💪 Opened PR [#1](https://github.com/madebygps/learn-to-cloud-guide-app/pull/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
-5. 🗣 Commented on [#125](https://github.com/insidesherpa/JPMC-tech-task-1-PY3/issues/125) in [insidesherpa/JPMC-tech-task-1-PY3](https://github.com/insidesherpa/JPMC-tech-task-1-PY3)
+4. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
+5. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
 <!--END_SECTION:activity-->
 
 <br/>
