@@ -61,10 +61,10 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotes/pull/2) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-2. 💪 Opened PR [#2](https://github.com/rishabkumar7/CloudNotes/pull/2) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-3. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
-4. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
+1. 🎉 Merged PR [#3](https://github.com/rishabkumar7/CloudNotes/pull/3) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+2. 💪 Opened PR [#3](https://github.com/rishabkumar7/CloudNotes/pull/3) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+3. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotes/pull/2) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+4. 💪 Opened PR [#2](https://github.com/rishabkumar7/CloudNotes/pull/2) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
 5. 🗣 Commented on [#1](https://github.com/madebygps/learn-to-cloud-guide-app/issues/1) in [madebygps/learn-to-cloud-guide-app](https://github.com/madebygps/learn-to-cloud-guide-app)
 <!--END_SECTION:activity-->
 
