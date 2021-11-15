@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/meeshapaul/pull/1) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
-2. 🗣 Commented on [#1](https://github.com/rishabkumar7/meeshapaul/issues/1) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
-3. 🎉 Merged PR [#3](https://github.com/rishabkumar7/CloudNotes/pull/3) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-4. 💪 Opened PR [#3](https://github.com/rishabkumar7/CloudNotes/pull/3) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-5. 🎉 Merged PR [#2](https://github.com/rishabkumar7/CloudNotes/pull/2) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/meeshapaul/pull/2) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
+2. 🗣 Commented on [#2](https://github.com/rishabkumar7/meeshapaul/issues/2) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
+3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/meeshapaul/pull/1) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
+4. 🗣 Commented on [#1](https://github.com/rishabkumar7/meeshapaul/issues/1) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
+5. 🎉 Merged PR [#3](https://github.com/rishabkumar7/CloudNotes/pull/3) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
 <!--END_SECTION:activity-->
 
 <br/>
