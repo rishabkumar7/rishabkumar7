@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/marcduiker/azure-functions-university/pull/131) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
-2. 🎉 Merged PR [#2](https://github.com/rishabkumar7/meeshapaul/pull/2) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
-3. 🗣 Commented on [#2](https://github.com/rishabkumar7/meeshapaul/issues/2) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
-4. 🎉 Merged PR [#1](https://github.com/rishabkumar7/meeshapaul/pull/1) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
-5. 🗣 Commented on [#1](https://github.com/rishabkumar7/meeshapaul/issues/1) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
+1. 🗣 Commented on [#131](https://github.com/marcduiker/azure-functions-university/issues/131) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
+2. 💪 Opened PR [#131](https://github.com/marcduiker/azure-functions-university/pull/131) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
+3. 🎉 Merged PR [#2](https://github.com/rishabkumar7/meeshapaul/pull/2) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
+4. 🗣 Commented on [#2](https://github.com/rishabkumar7/meeshapaul/issues/2) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
+5. 🎉 Merged PR [#1](https://github.com/rishabkumar7/meeshapaul/pull/1) in [rishabkumar7/meeshapaul](https://github.com/rishabkumar7/meeshapaul)
 <!--END_SECTION:activity-->
 
 <br/>
