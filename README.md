@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [random cloud chat](https://www.youtube.com/watch?v=odJ-DFGmaew)
 - [Live from NYC: cloud, code, life|](https://www.youtube.com/watch?v=fET4wBDXSfM)
 - [Gitpod first impressions | IDE in browser | VSCode](https://www.youtube.com/watch?v=XLOwNev0TM0)
 - [Advanced Terraform with remote backend | Azure Storage](https://www.youtube.com/watch?v=kEcaDJC7db8)
 - [cloud and chill stream!](https://www.youtube.com/watch?v=7bVTDqefjEE)
+- [LIVE!! hacktoberfest, facebook is down, and more!](https://www.youtube.com/watch?v=PBHGeEr4xyc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
