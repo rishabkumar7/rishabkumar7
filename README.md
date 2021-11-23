@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Replacing Motherboard on my old custom build PC | MSI B450M Bazooka](https://www.youtube.com/watch?v=iedLgBET19o)
 - [random cloud chat](https://www.youtube.com/watch?v=odJ-DFGmaew)
 - [Live from NYC: cloud, code, life|](https://www.youtube.com/watch?v=fET4wBDXSfM)
 - [Gitpod first impressions | IDE in browser | VSCode](https://www.youtube.com/watch?v=XLOwNev0TM0)
 - [Advanced Terraform with remote backend | Azure Storage](https://www.youtube.com/watch?v=kEcaDJC7db8)
-- [cloud and chill stream!](https://www.youtube.com/watch?v=7bVTDqefjEE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
