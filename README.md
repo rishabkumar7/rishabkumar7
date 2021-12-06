@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [My Linux Certification Notes | Cloud Certifications | notes.rishab.cloud](https://www.youtube.com/watch?v=N4hZWc0j91M)
 - [Replacing Motherboard on my old custom build PC | MSI B450M Bazooka](https://www.youtube.com/watch?v=iedLgBET19o)
 - [random cloud chat](https://www.youtube.com/watch?v=odJ-DFGmaew)
 - [Live from NYC: cloud, code, life|](https://www.youtube.com/watch?v=fET4wBDXSfM)
 - [Gitpod first impressions | IDE in browser | VSCode](https://www.youtube.com/watch?v=XLOwNev0TM0)
-- [Advanced Terraform with remote backend | Azure Storage](https://www.youtube.com/watch?v=kEcaDJC7db8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
