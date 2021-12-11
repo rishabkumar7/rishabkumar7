@@ -16,7 +16,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [2021 in Cloud - Random Cloud Stream 1](https://www.youtube.com/watch?v=uZMruUbJO8c)
+- [2021 in Cloud - Cloud Chats #1](https://www.youtube.com/watch?v=uZMruUbJO8c)
 - [My Linux Certification Notes | Cloud Certifications | notes.rishab.cloud](https://www.youtube.com/watch?v=N4hZWc0j91M)
 - [Replacing Motherboard on my old custom build PC | MSI B450M Bazooka](https://www.youtube.com/watch?v=iedLgBET19o)
 - [random cloud chat](https://www.youtube.com/watch?v=odJ-DFGmaew)
