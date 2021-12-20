@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What tech are we focusing on in 2022? | The RCC Show #2](https://www.youtube.com/watch?v=_9RS-9UEc6Y)
 - [My focus in 2022](https://www.youtube.com/watch?v=BcpzYGlFcSA)
 - [How to become a Cloud Architect, cert study group and more! - Cloud Chats #1](https://www.youtube.com/watch?v=uZMruUbJO8c)
 - [My Linux Certification Notes | Cloud Certifications | notes.rishab.cloud](https://www.youtube.com/watch?v=N4hZWc0j91M)
 - [Replacing Motherboard on my old custom build PC | MSI B450M Bazooka](https://www.youtube.com/watch?v=iedLgBET19o)
-- [random cloud chat](https://www.youtube.com/watch?v=odJ-DFGmaew)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
