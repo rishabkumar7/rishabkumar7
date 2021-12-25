@@ -61,11 +61,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/AzureResumeAPI/pull/1) in [rishabkumar7/AzureResumeAPI](https://github.com/rishabkumar7/AzureResumeAPI)
-2. 💪 Opened PR [#1](https://github.com/rishabkumar7/AzureResumeAPI/pull/1) in [rishabkumar7/AzureResumeAPI](https://github.com/rishabkumar7/AzureResumeAPI)
-3. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
-4. 🎉 Merged PR [#4](https://github.com/rishabkumar7/CloudNotes/pull/4) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-5. 💪 Opened PR [#4](https://github.com/rishabkumar7/CloudNotes/pull/4) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+1. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
+2. 🎉 Merged PR [#1](https://github.com/rishabkumar7/AzureResumeAPI/pull/1) in [rishabkumar7/AzureResumeAPI](https://github.com/rishabkumar7/AzureResumeAPI)
+3. 💪 Opened PR [#1](https://github.com/rishabkumar7/AzureResumeAPI/pull/1) in [rishabkumar7/AzureResumeAPI](https://github.com/rishabkumar7/AzureResumeAPI)
+4. 🗣 Commented on [#11](https://github.com/marcduiker/azure-functions-university/issues/11) in [marcduiker/azure-functions-university](https://github.com/marcduiker/azure-functions-university)
+5. 🎉 Merged PR [#4](https://github.com/rishabkumar7/CloudNotes/pull/4) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
 <!--END_SECTION:activity-->
 
 <br/>
