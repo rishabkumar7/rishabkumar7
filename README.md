@@ -42,13 +42,9 @@
 
 ### My Github Stats 📊
 
-[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<a href="https://github.com/rishabkumar7/rishabkumar7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabkumar7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/rishabkumar7/rishabkumar7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
-</a>
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 For future use
 <a href="https://www.instagram.com/hemant.gz/">
