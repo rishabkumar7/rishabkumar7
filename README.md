@@ -1,7 +1,8 @@
 ### Hi there I am [Rishab](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-![twitter-follower](https://img.shields.io/twitter/follow/rishabk7?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
+![Twitter Followers](https://img.shields.io/twitter/follow/rishabk7?style=social)
+![Linkedin Followers](https://img.shields.io/badge/LinkedIn-3k-blue?style=social&logo=linkedin) ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
 
 ---
 
@@ -41,6 +42,7 @@
 
 ### My Github Stats 📊
 
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <a href="https://github.com/rishabkumar7/rishabkumar7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabkumar7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
