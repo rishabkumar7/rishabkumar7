@@ -17,7 +17,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Cloud Certification Giveway winner selection | Random Cloud Chat Show #3](https://www.youtube.com/watch?v=X1O6iSJ-LxY)
+- [Rishab is joining Google, Certification Giveaway | Random Cloud Chats #3](https://www.youtube.com/watch?v=X1O6iSJ-LxY)
 - [How complex do your projects need to be, GPUs are so expensive, and more! | The RCC Show #2](https://www.youtube.com/watch?v=_9RS-9UEc6Y)
 - [My focus in 2022](https://www.youtube.com/watch?v=BcpzYGlFcSA)
 - [How to become a Cloud Architect, cert study group and more! - Cloud Chats #1](https://www.youtube.com/watch?v=uZMruUbJO8c)
