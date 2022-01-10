@@ -18,10 +18,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [I&#39;m joining Google](https://www.youtube.com/watch?v=-EptPCcUVBs)
-- [Rishab is joining Google, Certification Giveaway | Random Cloud Chats #3](https://www.youtube.com/watch?v=X1O6iSJ-LxY)
 - [How complex do your projects need to be, GPUs are so expensive, and more! | The RCC Show #2](https://www.youtube.com/watch?v=_9RS-9UEc6Y)
 - [My focus in 2022](https://www.youtube.com/watch?v=BcpzYGlFcSA)
 - [How to become a Cloud Architect, cert study group and more! - Cloud Chats #1](https://www.youtube.com/watch?v=uZMruUbJO8c)
+- [My Linux Certification Notes | Cloud Certifications | notes.rishab.cloud](https://www.youtube.com/watch?v=N4hZWc0j91M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
