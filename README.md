@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Day in a life of a DevOps Engineer | Canada](https://www.youtube.com/watch?v=lz4H5aWwE8c)
 - [Rishab&#39;s last day as a DevOps Engineer | Random Cloud Chats](https://www.youtube.com/watch?v=BAO5DSFMPzo)
 - [How they started their Tech Career with Cloud Bart | Episode 4](https://www.youtube.com/watch?v=JhpXshTS5cc)
 - [What Is DevOps? What does a DevOps Engineer do?](https://www.youtube.com/watch?v=5x9ykJ5y2TU)
 - [What is GitOps, AZ-204 cert, DevOps vs SRE and more! | random cloud chat with @GPS](https://www.youtube.com/watch?v=hVs5JBef3pU)
-- [Rishab is joining Google, Certification Giveaway | Random Cloud Chats #3](https://www.youtube.com/watch?v=X1O6iSJ-LxY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
