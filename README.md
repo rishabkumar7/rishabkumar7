@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How Salaries in Tech changed the Game this Year](https://www.youtube.com/watch?v=uPWZlMke8ak)
 - [the tech hiring market is more polarized than ever | The RCC Show](https://www.youtube.com/watch?v=GjFswB8qyHM)
 - [Top Linux commands that I use as a Cloud DevOps Engineer](https://www.youtube.com/watch?v=KL3K-ne3dx0)
 - [Day in a life of a DevOps Engineer | Canada](https://www.youtube.com/watch?v=lz4H5aWwE8c)
 - [Rishab&#39;s last day as a DevOps Engineer | Random Cloud Chats with @GPS](https://www.youtube.com/watch?v=BAO5DSFMPzo)
-- [How they started their Tech Career with Cloud Bart | Episode 4](https://www.youtube.com/watch?v=JhpXshTS5cc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
