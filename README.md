@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is IAC Infrastructure as Code | DevOps Fundamentals](https://www.youtube.com/watch?v=EIOuIwKS0P0)
 - [How Salaries in Tech changed the Game this Year](https://www.youtube.com/watch?v=uPWZlMke8ak)
 - [What is CD Continuous Deployment | DevOps Fundamentals](https://www.youtube.com/watch?v=iG38DoGtTKI)
 - [What is CI Continuous Integration | DevOps Fundamentals](https://www.youtube.com/watch?v=-kSDozFrgNg)
 - [the tech hiring market is more polarized than ever | The RCC Show](https://www.youtube.com/watch?v=GjFswB8qyHM)
-- [Top Linux commands that I use as a Cloud DevOps Engineer](https://www.youtube.com/watch?v=KL3K-ne3dx0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
