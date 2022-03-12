@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [how i passed the terraform associate certification in 2 weeks after failing it](https://www.youtube.com/watch?v=Cjlv2AbU8Dk)
 - [the most impactful cloud certification i did](https://www.youtube.com/watch?v=ycSHPYBBJXc)
 - [How I passed AWS Solutions Architect Associate Certificate exam | My experience](https://www.youtube.com/watch?v=ZwWrckU4D6U)
 - [What is IAC Infrastructure as Code | DevOps Fundamentals](https://www.youtube.com/watch?v=EIOuIwKS0P0)
 - [How Salaries in Tech changed the Game this Year](https://www.youtube.com/watch?v=uPWZlMke8ak)
-- [What is CD Continuous Deployment | DevOps Fundamentals](https://www.youtube.com/watch?v=iG38DoGtTKI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
