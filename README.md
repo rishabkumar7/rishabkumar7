@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [My FAANGM resume | Resume that got me into Google](https://www.youtube.com/watch?v=LEbqEwhsRWE)
 - [how I come up with project ideas](https://www.youtube.com/watch?v=Bvkk3j0pe0k)
 - [Setting Up WSL with VSCode | Windows Subsystem for Linux](https://www.youtube.com/watch?v=CokQE8kxxHQ)
 - [how i passed the terraform associate certification in 2 weeks after failing it](https://www.youtube.com/watch?v=Cjlv2AbU8Dk)
 - [the most impactful cloud certification i did](https://www.youtube.com/watch?v=ycSHPYBBJXc)
-- [How I passed AWS Solutions Architect Associate Certificate exam | My experience](https://www.youtube.com/watch?v=ZwWrckU4D6U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
