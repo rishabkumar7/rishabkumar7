@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Let&#39;s talk about Rejections and Failures | Amazon Microsoft &amp; Google](https://www.youtube.com/watch?v=-acoJbjtuI8)
 - [REST API | REST API in Python using Flask](https://www.youtube.com/watch?v=Dptnhhf6cAg)
 - [Desk Setup 2022 | New office space](https://www.youtube.com/watch?v=DOkue1ziVoI)
 - [First day at the Google Office #dayinthelife #google #office](https://www.youtube.com/watch?v=ml06NTM4peU)
 - [New Apartment Tour | Waterloo Ontario | Empty Apartment Tour](https://www.youtube.com/watch?v=zuuILQ02bk8)
-- [My FAANGM resume | Resume that got me into Google](https://www.youtube.com/watch?v=LEbqEwhsRWE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
