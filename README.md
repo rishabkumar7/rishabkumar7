@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [random cloud chat](https://www.youtube.com/watch?v=zRalL-We9aE)
 - [What is in my Tech Bag | Everyday Carry Bag 2022](https://www.youtube.com/watch?v=YH1UQvUuYiI)
 - [random cloud chat](https://www.youtube.com/watch?v=leFA3Ew80Oc)
 - [Let&#39;s talk about Rejections and Failures | Amazon Microsoft &amp; Google](https://www.youtube.com/watch?v=-acoJbjtuI8)
 - [REST API | REST API in Python using Flask](https://www.youtube.com/watch?v=Dptnhhf6cAg)
-- [Desk Setup 2022 | New office space](https://www.youtube.com/watch?v=DOkue1ziVoI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
