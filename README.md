@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Tech Salary Progression | How much I make at GOOGLE](https://www.youtube.com/watch?v=ujgjWE_vN4M)
 - [random cloud chat, setting up my VS code, and maybe we&#39;ll game](https://www.youtube.com/watch?v=i5EQYVvpj9Y)
 - [Fifa with Cloud Chat](https://www.youtube.com/watch?v=krqe7wJR2K0)
 - [random cloud chat](https://www.youtube.com/watch?v=zRalL-We9aE)
 - [What is in my Tech Bag | Everyday Carry Bag 2022](https://www.youtube.com/watch?v=YH1UQvUuYiI)
-- [random cloud chat](https://www.youtube.com/watch?v=leFA3Ew80Oc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
