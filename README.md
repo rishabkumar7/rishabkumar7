@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [My next adventure | Developer Evangelist](https://www.youtube.com/watch?v=EioOv9hInW4)
 - [I Left GOOGLE](https://www.youtube.com/watch?v=M9DvAms4klw)
 - [Day in a life at Google Cloud | Google Office Waterloo](https://www.youtube.com/watch?v=DY2gJhJaQfI)
 - [Tech Salary Progression | How much I make at GOOGLE](https://www.youtube.com/watch?v=ujgjWE_vN4M)
 - [random cloud chat, setting up my VS code, and maybe we&#39;ll game](https://www.youtube.com/watch?v=i5EQYVvpj9Y)
-- [Fifa with Cloud Chat](https://www.youtube.com/watch?v=krqe7wJR2K0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
