@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [A day in my life at Twilio Toronto edition](https://www.youtube.com/watch?v=GpdjvoBeIWY)
 - [My Student journey | Why I moved to Canada](https://www.youtube.com/watch?v=pHrIzkh_TYo)
 - [My next adventure | Developer Evangelist](https://www.youtube.com/watch?v=EioOv9hInW4)
 - [I Left GOOGLE](https://www.youtube.com/watch?v=M9DvAms4klw)
 - [Day in a life at Google Cloud | Google Office Waterloo](https://www.youtube.com/watch?v=DY2gJhJaQfI)
-- [Tech Salary Progression | How much I make at GOOGLE](https://www.youtube.com/watch?v=ujgjWE_vN4M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
