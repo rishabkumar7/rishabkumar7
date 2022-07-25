@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Day in the life of a Developer Evangelist | Microsoft Reactor Toronto](https://www.youtube.com/watch?v=0wruwXbWBgk)
 - [a7c unboxing](https://www.youtube.com/watch?v=1goS6IuiSo0)
 - [What do Developer Evangelists or Advocates do?](https://www.youtube.com/watch?v=Dj8zSt7fd-8)
 - [Collision conference 2022 &amp; my first tech talk in person | Twilio](https://www.youtube.com/watch?v=RGzn3tur5pg)
 - [Gwyn Reacts To Punjabi Music | Sidhu Moosewala | AP Dhillon | Diljit Dosanjh @GPS](https://www.youtube.com/watch?v=ao9rqdS73eo)
-- [Meeting my parents after 2 years | Picking up mom &amp; dad from the Toronto airport](https://www.youtube.com/watch?v=-71mc6f0RNY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
