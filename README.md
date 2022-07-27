@@ -17,7 +17,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Day in the life of a Developer Evangelist | Microsoft Reactor Toronto](https://www.youtube.com/watch?v=0wruwXbWBgk)
+- [Day in the life of a Developer Evangelist in Toronto | Microsoft Reactor](https://www.youtube.com/watch?v=0wruwXbWBgk)
 - [a7c unboxing](https://www.youtube.com/watch?v=1goS6IuiSo0)
 - [What do Developer Evangelists or Advocates do?](https://www.youtube.com/watch?v=Dj8zSt7fd-8)
 - [Collision conference 2022 &amp; my first tech talk in person | Twilio](https://www.youtube.com/watch?v=RGzn3tur5pg)
