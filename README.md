@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How I became a Cloud Engineer with no Degree - Hindi](https://www.youtube.com/watch?v=FE4DVlpmT70)
 - [How and Why you should learn in Public?](https://www.youtube.com/watch?v=b7F4Lou7pv4)
 - [GitHub Actions SMS Alerts with Twilio | #100DaysOfDevOps](https://www.youtube.com/watch?v=RHLWWexlGVc)
 - [Day in the life of a Developer Evangelist in Toronto | Microsoft Reactor](https://www.youtube.com/watch?v=0wruwXbWBgk)
 - [a7c unboxing](https://www.youtube.com/watch?v=1goS6IuiSo0)
-- [What do Developer Evangelists or Advocates do?](https://www.youtube.com/watch?v=Dj8zSt7fd-8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
