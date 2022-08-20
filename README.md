@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Day in NYC &amp; Queens - Vlog 1 meeting @GPS](https://www.youtube.com/watch?v=vdoVY64a0wM)
 - [What&#39;s on my phone | How I organize my phone?](https://www.youtube.com/watch?v=EHa1On92dTY)
 - [How I became a Cloud Engineer with no Degree - Hindi](https://www.youtube.com/watch?v=FE4DVlpmT70)
 - [How and Why you should learn in Public?](https://www.youtube.com/watch?v=b7F4Lou7pv4)
 - [GitHub Actions SMS Alerts with Twilio | #100DaysOfDevOps](https://www.youtube.com/watch?v=RHLWWexlGVc)
-- [Day in the life of a Developer Evangelist in Toronto | Microsoft Reactor](https://www.youtube.com/watch?v=0wruwXbWBgk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
