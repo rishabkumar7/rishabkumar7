@@ -5,7 +5,9 @@
 ![Linkedin Followers](https://img.shields.io/badge/LinkedIn-5.2k-blue?style=social&logo=linkedin) ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
 
 ---
+
 I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of Random Cloud Chats podcast, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now DevRel. 
+
 ---
 
 ### Languages and tools ⚙️
