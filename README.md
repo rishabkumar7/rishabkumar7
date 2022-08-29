@@ -21,11 +21,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How much money I make | My Tech Salary](https://www.youtube.com/watch?v=okyGy88o25A)
 - [Indian Food Reaction with @GPS](https://www.youtube.com/watch?v=DMjQ9T1g74o)
 - [Day in NYC &amp; Queens - Vlog 1 meeting @GPS](https://www.youtube.com/watch?v=vdoVY64a0wM)
 - [What&#39;s on my phone | How I organize my phone?](https://www.youtube.com/watch?v=EHa1On92dTY)
 - [How I became a Cloud Engineer with no Degree - Hindi](https://www.youtube.com/watch?v=FE4DVlpmT70)
-- [How and Why you should learn in Public?](https://www.youtube.com/watch?v=b7F4Lou7pv4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
