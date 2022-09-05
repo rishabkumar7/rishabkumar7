@@ -2,7 +2,7 @@
 <br/>
 
 ![Twitter Followers](https://img.shields.io/twitter/follow/rishabk7?style=social)
-![Linkedin Followers](https://img.shields.io/badge/LinkedIn-5.2k-blue?style=social&logo=linkedin) ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
+![Linkedin Followers](https://img.shields.io/badge/LinkedIn-5.2k-blue?style=social&logo=linkedin) ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) ![github-sponsors](https://img.shields.io/github/sponsors/rishabkumar7?label=GitHub%20Sponsors&style=social)
 
 ---
 
