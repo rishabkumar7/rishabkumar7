@@ -21,7 +21,7 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [I have some news](https://www.youtube.com/watch?v=SEbgSWjPFAI)
+- [I have some news | career update](https://www.youtube.com/watch?v=SEbgSWjPFAI)
 - [How much money I make | My Tech Salary](https://www.youtube.com/watch?v=okyGy88o25A)
 - [Indian Food Reaction with @GPS](https://www.youtube.com/watch?v=DMjQ9T1g74o)
 - [Day in NYC &amp; Queens - Vlog 1 meeting @GPS](https://www.youtube.com/watch?v=vdoVY64a0wM)
