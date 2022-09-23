@@ -21,11 +21,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How I became a DevOps Engineer](https://www.youtube.com/watch?v=nI8-qnSMY40)
 - [Cloud Engineer Kaise Bane 2022 | Zero To Cloud Engineer - Hindi](https://www.youtube.com/watch?v=szMJ3GzxZsY)
 - [Moosetape Reaction with @GPS | Sidhu Moosewala](https://www.youtube.com/watch?v=vYsjuPD62Bk)
 - [Day in a life at Microsoft NYC Office](https://www.youtube.com/watch?v=s6EhoEyE2YI)
 - [I have some news | career update](https://www.youtube.com/watch?v=SEbgSWjPFAI)
-- [How much money I make | My Tech Salary](https://www.youtube.com/watch?v=okyGy88o25A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
