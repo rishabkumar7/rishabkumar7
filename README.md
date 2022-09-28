@@ -63,11 +63,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#348](https://github.com/developeravocados/developeravocados.github.io/issues/348) in [developeravocados/developeravocados.github.io](https://github.com/developeravocados/developeravocados.github.io)
-2. 🎉 Merged PR [#44](https://github.com/learntocloud/learn-to-cloud/pull/44) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🗣 Commented on [#35](https://github.com/learntocloud/learn-to-cloud/issues/35) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🗣 Commented on [#44](https://github.com/learntocloud/learn-to-cloud/issues/44) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🎉 Merged PR [#37](https://github.com/learntocloud/learn-to-cloud/pull/37) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. ❗️ Closed issue [#55](https://github.com/learntocloud/learn-to-cloud/issues/55) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#55](https://github.com/learntocloud/learn-to-cloud/issues/55) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🎉 Merged PR [#57](https://github.com/learntocloud/learn-to-cloud/pull/57) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#57](https://github.com/learntocloud/learn-to-cloud/issues/57) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. ❗️ Reopened issue [#35](https://github.com/learntocloud/learn-to-cloud/issues/35) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
