@@ -21,11 +21,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Crypto SMS Alerts with Twilio &amp; Python](https://www.youtube.com/watch?v=cEfIRKpOCO0)
 - [Updating my portfolio website](https://www.youtube.com/watch?v=2_MuOk2Nvs8)
 - [Do you need Linux and Networking for Cloud?](https://www.youtube.com/watch?v=KvJxhBggJx8)
 - [Pass your Google Cloud Associate Cloud Engineer exam](https://www.youtube.com/watch?v=NavIeYNkZv8)
 - [Moosetape Reaction Part 2 | Sidhu Moosewala](https://www.youtube.com/watch?v=OApCldhhDa0)
-- [How I became a DevOps Engineer](https://www.youtube.com/watch?v=nI8-qnSMY40)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
