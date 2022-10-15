@@ -63,11 +63,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/learntocloud/learn-to-cloud/pull/69) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🎉 Merged PR [#2](https://github.com/rishabkumar7/cloud-cheat-sheets/pull/2) in [rishabkumar7/cloud-cheat-sheets](https://github.com/rishabkumar7/cloud-cheat-sheets)
-3. 💪 Opened PR [#2](https://github.com/rishabkumar7/cloud-cheat-sheets/pull/2) in [rishabkumar7/cloud-cheat-sheets](https://github.com/rishabkumar7/cloud-cheat-sheets)
-4. 🎉 Merged PR [#1](https://github.com/rishabkumar7/cloud-cheat-sheets/pull/1) in [rishabkumar7/cloud-cheat-sheets](https://github.com/rishabkumar7/cloud-cheat-sheets)
-5. 💪 Opened PR [#1](https://github.com/rishabkumar7/cloud-cheat-sheets/pull/1) in [rishabkumar7/cloud-cheat-sheets](https://github.com/rishabkumar7/cloud-cheat-sheets)
+1. ❗️ Closed issue [#28](https://github.com/learntocloud/learn-to-cloud/issues/28) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#28](https://github.com/learntocloud/learn-to-cloud/issues/28) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🎉 Merged PR [#69](https://github.com/learntocloud/learn-to-cloud/pull/69) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🎉 Merged PR [#2](https://github.com/rishabkumar7/cloud-cheat-sheets/pull/2) in [rishabkumar7/cloud-cheat-sheets](https://github.com/rishabkumar7/cloud-cheat-sheets)
+5. 💪 Opened PR [#2](https://github.com/rishabkumar7/cloud-cheat-sheets/pull/2) in [rishabkumar7/cloud-cheat-sheets](https://github.com/rishabkumar7/cloud-cheat-sheets)
 <!--END_SECTION:activity-->
 
 <br/>
