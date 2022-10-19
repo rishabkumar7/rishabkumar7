@@ -22,7 +22,7 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Microsoft Ignite Cloud Skills Challenge - Stream 2](https://www.youtube.com/watch?v=nP92kmgsvhA)
-- [GitHub Field Day Toronto 2022 | Unconference | @Microsoft Canada](https://www.youtube.com/watch?v=oQTcFR3rB5s)
+- [Let&#39;s see if students can answer my questions? at GitHub Field Day | @Microsoft Canada](https://www.youtube.com/watch?v=oQTcFR3rB5s)
 - [Microsoft Ignite Cloud Skills Challenge DevOps - Sunday Stream](https://www.youtube.com/watch?v=HX3g_4nbB9Q)
 - [Crypto SMS Alerts with Twilio &amp; Python](https://www.youtube.com/watch?v=cEfIRKpOCO0)
 - [Updating my portfolio website](https://www.youtube.com/watch?v=2_MuOk2Nvs8)
