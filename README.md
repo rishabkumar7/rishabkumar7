@@ -63,11 +63,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/learntocloud/learn-to-cloud/pull/70) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🗣 Commented on [#70](https://github.com/learntocloud/learn-to-cloud/issues/70) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🗣 Commented on [#1](https://github.com/rishabkumar7/the-devops-guide/issues/1) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-4. 🗣 Commented on [#62](https://github.com/learntocloud/learn-to-cloud/issues/62) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. ❗️ Closed issue [#28](https://github.com/learntocloud/learn-to-cloud/issues/28) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/the-devops-guide/pull/2) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+2. 💪 Opened PR [#2](https://github.com/rishabkumar7/the-devops-guide/pull/2) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+3. 🎉 Merged PR [#70](https://github.com/learntocloud/learn-to-cloud/pull/70) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#70](https://github.com/learntocloud/learn-to-cloud/issues/70) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🗣 Commented on [#1](https://github.com/rishabkumar7/the-devops-guide/issues/1) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 <!--END_SECTION:activity-->
 
 <br/>
