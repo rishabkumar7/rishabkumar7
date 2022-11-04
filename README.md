@@ -21,11 +21,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Let&#39;s bring my old pc back to life | linux](https://www.youtube.com/watch?v=OkL65onCxOg)
 - [Are Cloud Certifications worth it?](https://www.youtube.com/watch?v=zq88GpsaTBc)
 - [Let&#39;s talk about Cloud and DevOps, projects for getting more hands-on](https://www.youtube.com/watch?v=NwG4jWHtk9w)
 - [Microsoft Ignite Cloud Skills Challenge - Stream 2](https://www.youtube.com/watch?v=nP92kmgsvhA)
 - [Can students answer this? at GitHub Field Day | @Microsoft Canada](https://www.youtube.com/watch?v=oQTcFR3rB5s)
-- [Microsoft Ignite Cloud Skills Challenge DevOps - Sunday Stream](https://www.youtube.com/watch?v=HX3g_4nbB9Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
