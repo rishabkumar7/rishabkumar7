@@ -21,11 +21,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I won an award in Canada](https://www.youtube.com/watch?v=yrbUpKvA-UM)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=fVWFsRd4yYk)
 - [Salaries for Cloud roles in Canada](https://www.youtube.com/watch?v=8W5bN7C3Bi4)
 - [Answering tech career questions and bringing my old pc back to life | Cloud and Linux](https://www.youtube.com/watch?v=OkL65onCxOg)
 - [Are Cloud Certifications worth it?](https://www.youtube.com/watch?v=zq88GpsaTBc)
-- [Let&#39;s talk about Cloud and DevOps, projects for getting more hands-on](https://www.youtube.com/watch?v=NwG4jWHtk9w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
