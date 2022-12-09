@@ -21,11 +21,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Will I loose my job to ChatGPT? My thoughts on chatGPT!](https://www.youtube.com/watch?v=AWhZP8vWKPY)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=U6_WU9j7o0U)
 - [What is AWS Community Builders Program?](https://www.youtube.com/watch?v=TyVn321_yMM)
 - [Weekend Cloud Project with Google Cloud and AI](https://www.youtube.com/watch?v=Sc3FyXlMrWI)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=HnWos1kvJ2U)
-- [Weekend project with google cloud and AI #cloud #project #shorts](https://www.youtube.com/watch?v=pjoyhh_DcPo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
