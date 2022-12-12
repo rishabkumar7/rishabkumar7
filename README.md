@@ -34,11 +34,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Establishing a Connection: The Fundamentals of the Three-Way Handshake in TCP](https://blog.rishabkumar.com/three-way-handshake-in-tcp)
 - [Are Cloud Certifications worth it?](https://blog.rishabkumar.com/are-cloud-certifications-worth-it)
 - [How did I become a DevOps Engineer](https://blog.rishabkumar.com/how-did-i-become-a-devops-engineer)
 - [Crypto Alerts via SMS using Twilio](https://blog.rishabkumar.com/crypto-alerts-via-sms-using-twilio)
 - [Setting up terminal in macOS, installing ohmyzsh](https://blog.rishabkumar.com/setting-up-terminal-in-macos-installing-ohmyzsh)
-- [Linux commands I use as a Cloud and DevOps Engineer](https://blog.rishabkumar.com/linux-commands-i-use-as-a-cloud-and-devops-engineer)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://blog.rishabkumar.com)
 
