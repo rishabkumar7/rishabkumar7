@@ -64,11 +64,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#80](https://github.com/learntocloud/learn-to-cloud/issues/80) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 💪 Opened PR [#272](https://github.com/MichaelCade/90DaysOfDevOps/pull/272) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-3. 💪 Opened PR [#271](https://github.com/MichaelCade/90DaysOfDevOps/pull/271) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-4. 💪 Opened PR [#270](https://github.com/MichaelCade/90DaysOfDevOps/pull/270) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-5. 🗣 Commented on [#243](https://github.com/MichaelCade/90DaysOfDevOps/issues/243) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+1. 🎉 Merged PR [#3](https://github.com/rishabkumar7/the-devops-guide/pull/3) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+2. 💪 Opened PR [#3](https://github.com/rishabkumar7/the-devops-guide/pull/3) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+3. ❗️ Opened issue [#80](https://github.com/learntocloud/learn-to-cloud/issues/80) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 💪 Opened PR [#272](https://github.com/MichaelCade/90DaysOfDevOps/pull/272) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+5. 💪 Opened PR [#271](https://github.com/MichaelCade/90DaysOfDevOps/pull/271) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 <!--END_SECTION:activity-->
 
 <br/>
