@@ -2,7 +2,7 @@
 <br/>
 
 ![Twitter Followers](https://img.shields.io/twitter/follow/rishabk7?style=social)
-![Linkedin Followers](https://img.shields.io/badge/LinkedIn-6k-blue?style=social&logo=linkedin) ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rishabincloud)
+![Linkedin Followers](https://img.shields.io/badge/LinkedIn-6k-blue?style=social&logo=linkedin) ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtLwBE6ZNXnQdQp5o36BUxA?label=YouTube&style=social) ![img](https://img.shields.io/youtube/channel/views/UCtLwBE6ZNXnQdQp5o36BUxA?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/rishabincloud)
 
 
 ---
