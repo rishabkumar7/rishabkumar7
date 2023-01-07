@@ -22,11 +22,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Live Cloud Migration: Learn to Cloud to Azure](https://www.youtube.com/watch?v=XqUJhxNpeeE)
 - [Technologies I&#39;m learning in 2023](https://www.youtube.com/watch?v=UJiVnSpGDVY)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=9scFYauc934)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=h5mlV8nUV5c)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=1jMp-4hi9lE)
+- [What is Load Balancing and How to achieve it in AWS](https://www.youtube.com/watch?v=hJBboaWVwp8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
