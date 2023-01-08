@@ -64,11 +64,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com/Azure/static-web-apps/issues/151) in [Azure/static-web-apps](https://github.com/Azure/static-web-apps)
-2. 🗣 Commented on [#80](https://github.com/learntocloud/learn-to-cloud/issues/80) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 💪 Opened PR [#81](https://github.com/learntocloud/learn-to-cloud/pull/81) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🎉 Merged PR [#3](https://github.com/rishabkumar7/the-devops-guide/pull/3) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-5. 💪 Opened PR [#3](https://github.com/rishabkumar7/the-devops-guide/pull/3) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+1. 💪 Opened PR [#1](https://github.com/openupthecloud/donate-to-cloud/pull/1) in [openupthecloud/donate-to-cloud](https://github.com/openupthecloud/donate-to-cloud)
+2. 🗣 Commented on [#151](https://github.com/Azure/static-web-apps/issues/151) in [Azure/static-web-apps](https://github.com/Azure/static-web-apps)
+3. 🗣 Commented on [#80](https://github.com/learntocloud/learn-to-cloud/issues/80) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 💪 Opened PR [#81](https://github.com/learntocloud/learn-to-cloud/pull/81) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🎉 Merged PR [#3](https://github.com/rishabkumar7/the-devops-guide/pull/3) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 <!--END_SECTION:activity-->
 
 <br/>
