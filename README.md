@@ -64,11 +64,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/rishab-cloud/pull/2) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
-2. 💪 Opened PR [#2](https://github.com/rishabkumar7/rishab-cloud/pull/2) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
-3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/rishab-cloud/pull/1) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
-4. 💪 Opened PR [#1](https://github.com/rishabkumar7/rishab-cloud/pull/1) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
-5. 🗣 Commented on [#90](https://github.com/learntocloud/learn-to-cloud/issues/90) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 💪 Opened PR [#93](https://github.com/learntocloud/learn-to-cloud/pull/93) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🎉 Merged PR [#2](https://github.com/rishabkumar7/rishab-cloud/pull/2) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
+3. 💪 Opened PR [#2](https://github.com/rishabkumar7/rishab-cloud/pull/2) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
+4. 🎉 Merged PR [#1](https://github.com/rishabkumar7/rishab-cloud/pull/1) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
+5. 💪 Opened PR [#1](https://github.com/rishabkumar7/rishab-cloud/pull/1) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
