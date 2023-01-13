@@ -64,11 +64,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/learntocloud/learn-to-cloud/pull/99) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🗣 Commented on [#89](https://github.com/learntocloud/learn-to-cloud/issues/89) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. ❗️ Opened issue [#98](https://github.com/learntocloud/learn-to-cloud/issues/98) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 💪 Opened PR [#97](https://github.com/learntocloud/learn-to-cloud/pull/97) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. ❗️ Opened issue [#96](https://github.com/learntocloud/learn-to-cloud/issues/96) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. ❗️ Closed issue [#96](https://github.com/learntocloud/learn-to-cloud/issues/96) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#96](https://github.com/learntocloud/learn-to-cloud/issues/96) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. ❗️ Closed issue [#98](https://github.com/learntocloud/learn-to-cloud/issues/98) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#98](https://github.com/learntocloud/learn-to-cloud/issues/98) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 💪 Opened PR [#99](https://github.com/learntocloud/learn-to-cloud/pull/99) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
