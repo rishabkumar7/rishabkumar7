@@ -22,11 +22,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I built a CLI tool with Python | Weekend Project](https://www.youtube.com/watch?v=PQEw7oEzO84)
 - [WTF Is Cloud Native?](https://www.youtube.com/watch?v=CsDHVfKxr2I)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=QsYgZz9CLEU)
 - [Technologies I&#39;m learning in 2023](https://www.youtube.com/watch?v=UJiVnSpGDVY)
 - [Cloud and DevOps QnA](https://www.youtube.com/watch?v=9scFYauc934)
-- [Cloud and DevOps QnA](https://www.youtube.com/watch?v=h5mlV8nUV5c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
