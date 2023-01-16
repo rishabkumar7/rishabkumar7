@@ -64,11 +64,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#78](https://github.com/learntocloud/learn-to-cloud/pull/78) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🗣 Commented on [#78](https://github.com/learntocloud/learn-to-cloud/issues/78) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🗣 Commented on [#85](https://github.com/learntocloud/learn-to-cloud/issues/85) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 💪 Opened PR [#100](https://github.com/learntocloud/learn-to-cloud/pull/100) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🎉 Merged PR [#1](https://github.com/rishabkumar7/python-chatgpt-cli/pull/1) in [rishabkumar7/python-chatgpt-cli](https://github.com/rishabkumar7/python-chatgpt-cli)
+1. ❗️ Closed issue [#85](https://github.com/learntocloud/learn-to-cloud/issues/85) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#85](https://github.com/learntocloud/learn-to-cloud/issues/85) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🗣 Commented on [#88](https://github.com/learntocloud/learn-to-cloud/issues/88) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. ❌ Closed PR [#78](https://github.com/learntocloud/learn-to-cloud/pull/78) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🗣 Commented on [#78](https://github.com/learntocloud/learn-to-cloud/issues/78) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
