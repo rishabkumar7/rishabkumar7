@@ -64,11 +64,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#115](https://github.com/learntocloud/learn-to-cloud/issues/115) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. ❗️ Opened issue [#114](https://github.com/learntocloud/learn-to-cloud/issues/114) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. ❗️ Opened issue [#113](https://github.com/learntocloud/learn-to-cloud/issues/113) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. ❗️ Opened issue [#112](https://github.com/learntocloud/learn-to-cloud/issues/112) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. ❗️ Opened issue [#5](https://github.com/vogelcodes/capcut-srt-export/issues/5) in [vogelcodes/capcut-srt-export](https://github.com/vogelcodes/capcut-srt-export)
+1. 💪 Opened PR [#116](https://github.com/learntocloud/learn-to-cloud/pull/116) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#115](https://github.com/learntocloud/learn-to-cloud/issues/115) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🗣 Commented on [#115](https://github.com/learntocloud/learn-to-cloud/issues/115) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. ❗️ Opened issue [#115](https://github.com/learntocloud/learn-to-cloud/issues/115) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. ❗️ Opened issue [#114](https://github.com/learntocloud/learn-to-cloud/issues/114) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
