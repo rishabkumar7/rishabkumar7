@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How a 10x DevOps Engineer fixes a CICD pipeline](https://www.youtube.com/watch?v=SfpAunpfGV0)
 - [Tuesday Cloud Chat](https://www.youtube.com/watch?v=rQrEi64CQeo)
 - [AWS Cloud Resume Challenge - Setting up S3 bucket and CloudFront | Part 2](https://www.youtube.com/watch?v=P5UGhdud_ss)
 - [Tuesday Cloud Chat](https://www.youtube.com/watch?v=tPv-YDgYlOg)
 - [3 lessons I learned from this book](https://www.youtube.com/watch?v=vV5GmmCrZxs)
-- [DevOps Roadmap 2023 - My guide to become a DevOps Engineer](https://www.youtube.com/watch?v=jsC0Iqb679M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
