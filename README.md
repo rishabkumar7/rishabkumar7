@@ -65,11 +65,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/rishabkumar7/the-devops-guide/issues/4) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-2. 🗣 Commented on [#4](https://github.com/rishabkumar7/the-devops-guide/issues/4) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-3. 🎉 Merged PR [#5](https://github.com/rishabkumar7/the-devops-guide/pull/5) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-4. 🗣 Commented on [#5](https://github.com/rishabkumar7/the-devops-guide/issues/5) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-5. 🎉 Merged PR [#122](https://github.com/learntocloud/learn-to-cloud/pull/122) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#101](https://github.com/learntocloud/learn-to-cloud/issues/101) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. ❗️ Closed issue [#4](https://github.com/rishabkumar7/the-devops-guide/issues/4) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+3. 🗣 Commented on [#4](https://github.com/rishabkumar7/the-devops-guide/issues/4) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+4. 🎉 Merged PR [#5](https://github.com/rishabkumar7/the-devops-guide/pull/5) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+5. 🗣 Commented on [#5](https://github.com/rishabkumar7/the-devops-guide/issues/5) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 <!--END_SECTION:activity-->
 
 <br/>
