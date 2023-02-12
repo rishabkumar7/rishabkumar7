@@ -65,11 +65,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/learntocloud/cloud-dictionary/issues/11) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-2. 🗣 Commented on [#8](https://github.com/learntocloud/cloud-dictionary/issues/8) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-3. ❗️ Opened issue [#7](https://github.com/learntocloud/cloud-dictionary/issues/7) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-4. 🗣 Commented on [#113](https://github.com/learntocloud/learn-to-cloud/issues/113) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. ❗️ Closed issue [#113](https://github.com/learntocloud/learn-to-cloud/issues/113) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 💪 Opened PR [#317](https://github.com/MichaelCade/90DaysOfDevOps/pull/317) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+2. ❗️ Opened issue [#11](https://github.com/learntocloud/cloud-dictionary/issues/11) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+3. 🗣 Commented on [#8](https://github.com/learntocloud/cloud-dictionary/issues/8) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+4. ❗️ Opened issue [#7](https://github.com/learntocloud/cloud-dictionary/issues/7) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+5. 🗣 Commented on [#113](https://github.com/learntocloud/learn-to-cloud/issues/113) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
