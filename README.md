@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [My WFH Desk Setup 2023 ##desksetup](https://www.youtube.com/watch?v=WGXu_Wu7x08)
 - [How to build Serverless APIs with Visual Studio Code &amp; deploy to Azure Functions](https://www.youtube.com/watch?v=rWLBsLprhUc)
 - [Maybe I am biased #cloud](https://www.youtube.com/watch?v=GMqlwN69phM)
 - [My Ultimate Work From Home Desk Setup | 2023 Developer Edition](https://www.youtube.com/watch?v=6mZTVpFeyrs)
 - [DevOps Roadmap 2023 #devops](https://www.youtube.com/watch?v=-B6BU_XQ_qk)
-- [How to test and deploy your apps with GitHub Actions and Azure App Service](https://www.youtube.com/watch?v=RYavimJMaa0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
