@@ -65,11 +65,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/MichaelCade/90DaysOfDevOps/issues/306) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-2. 💪 Opened PR [#326](https://github.com/MichaelCade/90DaysOfDevOps/pull/326) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-3. 💪 Opened PR [#322](https://github.com/MichaelCade/90DaysOfDevOps/pull/322) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-4. ❗️ Closed issue [#6](https://github.com/rishabkumar7/the-devops-guide/issues/6) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-5. 🎉 Merged PR [#129](https://github.com/learntocloud/learn-to-cloud/pull/129) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 💪 Opened PR [#331](https://github.com/MichaelCade/90DaysOfDevOps/pull/331) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+2. 🗣 Commented on [#306](https://github.com/MichaelCade/90DaysOfDevOps/issues/306) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+3. 💪 Opened PR [#326](https://github.com/MichaelCade/90DaysOfDevOps/pull/326) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+4. 💪 Opened PR [#322](https://github.com/MichaelCade/90DaysOfDevOps/pull/322) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+5. ❗️ Closed issue [#6](https://github.com/rishabkumar7/the-devops-guide/issues/6) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 <!--END_SECTION:activity-->
 
 <br/>
