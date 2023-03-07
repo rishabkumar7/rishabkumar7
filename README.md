@@ -24,10 +24,10 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [My IMMIGRATION Journey Canada | How I became PR in 4 years](https://www.youtube.com/watch?v=T9lg8MzadxI)
-- [Answering your Cloud, DevOps, and Career Questions](https://www.youtube.com/watch?v=Mrs4Q_WFWGQ)
 - [Cloud &amp; DevOps Chat](https://www.youtube.com/watch?v=eUAYxyjA_rM)
 - [Volleyball Coach to Developer | Tech Careers with @francescociulla | Episode 5](https://www.youtube.com/watch?v=qnNpTFBzYg8)
 - [Say Goodbye to local dev environments with GitHub Codespaces](https://www.youtube.com/watch?v=fI6LyWuxwcQ)
+- [My WFH Desk Setup 2023 #desksetup](https://www.youtube.com/watch?v=WGXu_Wu7x08)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
