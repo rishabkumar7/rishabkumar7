@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AZ-400 Azure DevOps Expert Exam Passed with Zero Prep | My Surprising Success Story](https://www.youtube.com/watch?v=QCFChF-V24s)
 - [Answering your Cloud, DevOps, and Career Questions](https://www.youtube.com/watch?v=fUHywLdDGD8)
 - [My IMMIGRATION Journey Canada | How I became PR in 4 years](https://www.youtube.com/watch?v=T9lg8MzadxI)
 - [Cloud &amp; DevOps Chat](https://www.youtube.com/watch?v=eUAYxyjA_rM)
 - [Volleyball Coach to Developer | Tech Careers with @francescociulla | Episode 5](https://www.youtube.com/watch?v=qnNpTFBzYg8)
-- [Say Goodbye to local dev environments with GitHub Codespaces](https://www.youtube.com/watch?v=fI6LyWuxwcQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
