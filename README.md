@@ -36,11 +36,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CLI Cheat Sheet: Quick Reference Guide for Cloud Developers](https://blog.rishabkumar.com/aws-cli-cheat-sheet-quick-reference-guide-for-cloud-developers)
 - [DevOps Roadmap 2023 - Ultimate guide to become a DevOps Engineer](https://blog.rishabkumar.com/devops-roadmap-2023)
 - [Dev Retro 2022 - The year I changed 2 jobs and left my dream company](https://blog.rishabkumar.com/dev-retro-2022-the-year-i-changed-2-jobs-and-left-my-dream-company)
 - [Establishing a Connection: The Fundamentals of the Three-Way Handshake in TCP](https://blog.rishabkumar.com/three-way-handshake-in-tcp)
 - [Are Cloud Certifications worth it?](https://blog.rishabkumar.com/are-cloud-certifications-worth-it)
-- [How did I become a DevOps Engineer](https://blog.rishabkumar.com/how-did-i-become-a-devops-engineer)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://blog.rishabkumar.com)
 
