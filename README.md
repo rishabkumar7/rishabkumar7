@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/rishabkumar7/the-devops-guide/pull/7) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-2. 💪 Opened PR [#7](https://github.com/rishabkumar7/the-devops-guide/pull/7) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-3. 💪 Opened PR [#76](https://github.com/KubeHuddle/KubeHuddle/pull/76) in [KubeHuddle/KubeHuddle](https://github.com/KubeHuddle/KubeHuddle)
-4. 💪 Opened PR [#137](https://github.com/learntocloud/learn-to-cloud/pull/137) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🎉 Merged PR [#136](https://github.com/learntocloud/learn-to-cloud/pull/136) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 💪 Opened PR [#77](https://github.com/KubeHuddle/KubeHuddle/pull/77) in [KubeHuddle/KubeHuddle](https://github.com/KubeHuddle/KubeHuddle)
+2. 🎉 Merged PR [#7](https://github.com/rishabkumar7/the-devops-guide/pull/7) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+3. 💪 Opened PR [#7](https://github.com/rishabkumar7/the-devops-guide/pull/7) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+4. 💪 Opened PR [#76](https://github.com/KubeHuddle/KubeHuddle/pull/76) in [KubeHuddle/KubeHuddle](https://github.com/KubeHuddle/KubeHuddle)
+5. 💪 Opened PR [#137](https://github.com/learntocloud/learn-to-cloud/pull/137) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
