@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [10X DevOps Engineer helps me containerize Grafana](https://www.youtube.com/watch?v=tvIcZZBvnOk)
 - [obsession #motivation  #inspiration #inspirationalquotes](https://www.youtube.com/watch?v=QRjr2Wi185A)
 - [Tech Conference in Tampa Florida - CIVO Navigate conference Vlog](https://www.youtube.com/watch?v=6RMwBY2zN2o)
 - [Cloud projects, DevOps and Career QnA](https://www.youtube.com/watch?v=RHNFPa-SPJA)
 - [AWS Cloud Resume Challenge - Lambda Functions and JavaScript to get viewer count | Part 4](https://www.youtube.com/watch?v=x6TIihJSaLA)
-- [Head in the cloud, I got published in a magazine #cloud #career](https://www.youtube.com/watch?v=K5tPdIDt1Ro)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
