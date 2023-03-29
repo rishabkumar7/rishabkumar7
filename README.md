@@ -23,7 +23,7 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [10X DevOps Engineer helps me containerize Grafana](https://www.youtube.com/watch?v=tvIcZZBvnOk)
+- [How a 10X DevOps Engineer containerizes Grafana](https://www.youtube.com/watch?v=tvIcZZBvnOk)
 - [obsession #motivation  #inspiration #inspirationalquotes](https://www.youtube.com/watch?v=QRjr2Wi185A)
 - [Tech Conference in Tampa Florida - CIVO Navigate conference Vlog](https://www.youtube.com/watch?v=6RMwBY2zN2o)
 - [Cloud projects, DevOps and Career QnA](https://www.youtube.com/watch?v=RHNFPa-SPJA)
