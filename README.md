@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Project that got me Cloud Engineer job #cloud #shorts](https://www.youtube.com/watch?v=ZRpD8XlXkWQ)
 - [How I passed AWS DevOps PRO without prep #devops #shorts](https://www.youtube.com/watch?v=5uGmfeBwDbU)
 - [I passed the AWS DevOps Engineer Professional Exam without preparation](https://www.youtube.com/watch?v=xtIZ3AyaRK4)
 - [Help-desk to Published Author | Tech Careers Podcast with @HirokoNishimura | Episode 6](https://www.youtube.com/watch?v=UYw0pDl0jEk)
 - [Cybersecurity podcast that I recommend #cybersecurity #security](https://www.youtube.com/watch?v=4HAe6FRQtI0)
-- [How a 10X DevOps Engineer containerizes Grafana](https://www.youtube.com/watch?v=tvIcZZBvnOk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
