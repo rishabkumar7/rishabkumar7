@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learning Python be like #python #programming](https://www.youtube.com/watch?v=xKkHev7c0YU)
 - [Free Google Cloud Certification 2023 🔥](https://www.youtube.com/watch?v=4rtWuJM-x4g)
 - [How to learn Python for Cloud and DevOps | 7 Day Learning Plan](https://www.youtube.com/watch?v=_jzGn1QbF2c)
 - [Setting up Git and CI/CD for Front end | AWS Cloud Resume Challenge Part 5](https://www.youtube.com/watch?v=qFEf6iOo-4g)
 - [Project that got me Cloud Engineer job #cloud #shorts](https://www.youtube.com/watch?v=ZRpD8XlXkWQ)
-- [How I passed AWS DevOps PRO without prep #devops #shorts](https://www.youtube.com/watch?v=5uGmfeBwDbU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
