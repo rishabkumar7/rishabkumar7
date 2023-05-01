@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [International Student to Cloud Computing | Tech Careers Podcast with @ParveenSingh | Episode 7](https://www.youtube.com/watch?v=ZdFM2T7B5Zc)
 - [Confoo 2023 Montreal Vlog | Montreal&#39;s biggest developer conference](https://www.youtube.com/watch?v=MGzLmAOstng)
 - [FREE Google Cloud Certification #cloud #certification](https://www.youtube.com/watch?v=6QEN0A06rGI)
 - [Implementing Infrastructure as Code with Terraform | AWS Cloud Resume Challenge - Part 6](https://www.youtube.com/watch?v=rzdSuiU_TQc)
 - [Learning Python be like #python #programming](https://www.youtube.com/watch?v=xKkHev7c0YU)
-- [Free Google Cloud Certification 2023 🔥](https://www.youtube.com/watch?v=4rtWuJM-x4g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
