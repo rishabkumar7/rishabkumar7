@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#156](https://github.com/learntocloud/learn-to-cloud/issues/156) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🎉 Merged PR [#1](https://github.com/rishabkumar7/7DaysOfPython/pull/1) in [rishabkumar7/7DaysOfPython](https://github.com/rishabkumar7/7DaysOfPython)
-3. 🗣 Commented on [#1](https://github.com/rishabkumar7/7DaysOfPython/issues/1) in [rishabkumar7/7DaysOfPython](https://github.com/rishabkumar7/7DaysOfPython)
-4. 🎉 Merged PR [#144](https://github.com/learntocloud/learn-to-cloud/pull/144) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🎉 Merged PR [#142](https://github.com/learntocloud/learn-to-cloud/pull/142) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#81](https://github.com/KubeHuddle/KubeHuddle/issues/81) in [KubeHuddle/KubeHuddle](https://github.com/KubeHuddle/KubeHuddle)
+2. 💪 Opened PR [#81](https://github.com/KubeHuddle/KubeHuddle/pull/81) in [KubeHuddle/KubeHuddle](https://github.com/KubeHuddle/KubeHuddle)
+3. ❗️ Opened issue [#156](https://github.com/learntocloud/learn-to-cloud/issues/156) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🎉 Merged PR [#1](https://github.com/rishabkumar7/7DaysOfPython/pull/1) in [rishabkumar7/7DaysOfPython](https://github.com/rishabkumar7/7DaysOfPython)
+5. 🗣 Commented on [#1](https://github.com/rishabkumar7/7DaysOfPython/issues/1) in [rishabkumar7/7DaysOfPython](https://github.com/rishabkumar7/7DaysOfPython)
 <!--END_SECTION:activity-->
 
 <br/>
