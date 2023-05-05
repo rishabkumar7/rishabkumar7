@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#157](https://github.com/learntocloud/learn-to-cloud/pull/157) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. ❌ Closed PR [#155](https://github.com/learntocloud/learn-to-cloud/pull/155) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. ❌ Closed PR [#154](https://github.com/learntocloud/learn-to-cloud/pull/154) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. ❌ Closed PR [#153](https://github.com/learntocloud/learn-to-cloud/pull/153) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. ❌ Closed PR [#152](https://github.com/learntocloud/learn-to-cloud/pull/152) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/spotify-analyzer/pull/1) in [rishabkumar7/spotify-analyzer](https://github.com/rishabkumar7/spotify-analyzer)
+2. 💪 Opened PR [#1](https://github.com/rishabkumar7/spotify-analyzer/pull/1) in [rishabkumar7/spotify-analyzer](https://github.com/rishabkumar7/spotify-analyzer)
+3. ❌ Closed PR [#157](https://github.com/learntocloud/learn-to-cloud/pull/157) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. ❌ Closed PR [#155](https://github.com/learntocloud/learn-to-cloud/pull/155) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. ❌ Closed PR [#154](https://github.com/learntocloud/learn-to-cloud/pull/154) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
