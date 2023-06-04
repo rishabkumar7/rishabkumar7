@@ -23,7 +23,7 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [International Student to Software Developer| Tech Careers Podcast with Ansh | Episode 8](https://www.youtube.com/watch?v=-g8UwxaWExA)
+- [International Student to Software Developer | Tech Careers Podcast with Ansh | Episode 8](https://www.youtube.com/watch?v=-g8UwxaWExA)
 - [Development on Windows is 🔥| Microsoft Dev Home](https://www.youtube.com/watch?v=jfJcUS-8FIU)
 - [FAANG Resume writer ROASTS my Resume](https://www.youtube.com/watch?v=GTRaTl4jlRk)
 - [ChatGPT teaches me web development, it FAILED!](https://www.youtube.com/watch?v=5W6Z4Bg6NqI)
