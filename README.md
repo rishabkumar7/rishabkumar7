@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/KubeHuddle/KubeHuddle/pull/84) in [KubeHuddle/KubeHuddle](https://github.com/KubeHuddle/KubeHuddle)
-2. 🎉 Merged PR [#1](https://github.com/rishabkumar7/spotify-analyzer/pull/1) in [rishabkumar7/spotify-analyzer](https://github.com/rishabkumar7/spotify-analyzer)
-3. 💪 Opened PR [#1](https://github.com/rishabkumar7/spotify-analyzer/pull/1) in [rishabkumar7/spotify-analyzer](https://github.com/rishabkumar7/spotify-analyzer)
-4. ❌ Closed PR [#157](https://github.com/learntocloud/learn-to-cloud/pull/157) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. ❌ Closed PR [#155](https://github.com/learntocloud/learn-to-cloud/pull/155) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#134](https://github.com/learntocloud/learn-to-cloud/issues/134) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. ❗ Opened issue [#160](https://github.com/learntocloud/learn-to-cloud/issues/160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 💪 Opened PR [#84](https://github.com/KubeHuddle/KubeHuddle/pull/84) in [KubeHuddle/KubeHuddle](https://github.com/KubeHuddle/KubeHuddle)
+4. 🎉 Merged PR [#1](https://github.com/rishabkumar7/spotify-analyzer/pull/1) in [rishabkumar7/spotify-analyzer](https://github.com/rishabkumar7/spotify-analyzer)
+5. 💪 Opened PR [#1](https://github.com/rishabkumar7/spotify-analyzer/pull/1) in [rishabkumar7/spotify-analyzer](https://github.com/rishabkumar7/spotify-analyzer)
 <!--END_SECTION:activity-->
 
 <br/>
