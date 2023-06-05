@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How I Passed the LPI Linux Essentials | Prepare For the Linux Essentials 010-160](https://www.youtube.com/watch?v=HMr4CvhETZo)
 - [International Student to Software Developer | Tech Careers Podcast with Ansh | Episode 8](https://www.youtube.com/watch?v=-g8UwxaWExA)
 - [Development on Windows is 🔥| Microsoft Dev Home](https://www.youtube.com/watch?v=jfJcUS-8FIU)
 - [FAANG Resume writer ROASTS my Resume](https://www.youtube.com/watch?v=GTRaTl4jlRk)
 - [ChatGPT teaches me web development, it FAILED!](https://www.youtube.com/watch?v=5W6Z4Bg6NqI)
-- [Get Microsoft Azure Cloud Certifications for FREE - 2023](https://www.youtube.com/watch?v=8qoDfd2QSr8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
