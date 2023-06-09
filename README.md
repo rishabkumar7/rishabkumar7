@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/learntocloud/learn-to-cloud/issues/159) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🔒 Closed issue [#160](https://github.com/learntocloud/learn-to-cloud/issues/160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🗣 Commented on [#160](https://github.com/learntocloud/learn-to-cloud/issues/160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. ❗ Opened issue [#110451](https://github.com/MicrosoftDocs/azure-docs/issues/110451) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-5. 🗣 Commented on [#134](https://github.com/learntocloud/learn-to-cloud/issues/134) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#110451](https://github.com/MicrosoftDocs/azure-docs/issues/110451) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. 🗣 Commented on [#159](https://github.com/learntocloud/learn-to-cloud/issues/159) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🔒 Closed issue [#160](https://github.com/learntocloud/learn-to-cloud/issues/160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#160](https://github.com/learntocloud/learn-to-cloud/issues/160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. ❗ Opened issue [#110451](https://github.com/MicrosoftDocs/azure-docs/issues/110451) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!--END_SECTION:activity-->
 
 <br/>
