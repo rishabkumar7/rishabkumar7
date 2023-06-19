@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110451](https://github.com/MicrosoftDocs/azure-docs/issues/110451) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🗣 Commented on [#159](https://github.com/learntocloud/learn-to-cloud/issues/159) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🔒 Closed issue [#160](https://github.com/learntocloud/learn-to-cloud/issues/160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🗣 Commented on [#160](https://github.com/learntocloud/learn-to-cloud/issues/160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. ❗ Opened issue [#110451](https://github.com/MicrosoftDocs/azure-docs/issues/110451) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+1. 🎉 Merged PR [#10](https://github.com/rishabkumar7/the-devops-guide/pull/10) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+2. 🗣 Commented on [#10](https://github.com/rishabkumar7/the-devops-guide/issues/10) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+3. 🎉 Merged PR [#12](https://github.com/rishabkumar7/the-devops-guide/pull/12) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+4. 🗣 Commented on [#12](https://github.com/rishabkumar7/the-devops-guide/issues/12) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+5. 🔒 Reopened issue [#8](https://github.com/rishabkumar7/the-devops-guide/issues/8) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 <!--END_SECTION:activity-->
 
 <br/>
