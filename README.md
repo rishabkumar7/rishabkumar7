@@ -23,11 +23,11 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [5 Tips to have a Successful Career in Tech](https://www.youtube.com/watch?v=jKyDHdLmokk)
 - [Linux Directories Explained in 5 minutes](https://www.youtube.com/watch?v=ELuErESIAfs)
 - [How I Passed the LPI Linux Essentials | Prepare For the Linux Essentials 010-160](https://www.youtube.com/watch?v=HMr4CvhETZo)
 - [International Student to Software Developer | Tech Careers Podcast with Ansh | Episode 8](https://www.youtube.com/watch?v=-g8UwxaWExA)
 - [Development on Windows is 🔥| Microsoft Dev Home](https://www.youtube.com/watch?v=jfJcUS-8FIU)
-- [FAANG Resume writer ROASTS my Resume](https://www.youtube.com/watch?v=GTRaTl4jlRk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
