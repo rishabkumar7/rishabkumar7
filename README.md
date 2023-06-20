@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/rishabkumar7/the-devops-guide/issues/8) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-2. 🗣 Commented on [#8](https://github.com/rishabkumar7/the-devops-guide/issues/8) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-3. 🎉 Merged PR [#10](https://github.com/rishabkumar7/the-devops-guide/pull/10) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-4. 🗣 Commented on [#10](https://github.com/rishabkumar7/the-devops-guide/issues/10) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-5. 🎉 Merged PR [#12](https://github.com/rishabkumar7/the-devops-guide/pull/12) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+1. ❌ Closed PR [#11](https://github.com/rishabkumar7/the-devops-guide/pull/11) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+2. 🗣 Commented on [#11](https://github.com/rishabkumar7/the-devops-guide/issues/11) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+3. 🔒 Closed issue [#9](https://github.com/rishabkumar7/the-devops-guide/issues/9) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+4. 🗣 Commented on [#9](https://github.com/rishabkumar7/the-devops-guide/issues/9) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+5. 🔒 Reopened issue [#9](https://github.com/rishabkumar7/the-devops-guide/issues/9) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 <!--END_SECTION:activity-->
 
 <br/>
