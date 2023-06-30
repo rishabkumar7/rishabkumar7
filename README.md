@@ -23,7 +23,7 @@ I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of R
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Deploy to Azure with Terraform - Full Course](https://www.youtube.com/watch?v=HdMB2YCtVr4)
+- [Deploy Infrastructure to Azure with Terraform - Full Course](https://www.youtube.com/watch?v=HdMB2YCtVr4)
 - [AWS Summit Toronto 2023 RECAP](https://www.youtube.com/watch?v=MaD2R-oAgq4)
 - [5 Tips to have a Successful Career in Tech](https://www.youtube.com/watch?v=jKyDHdLmokk)
 - [Linux Directories Explained in 5 minutes](https://www.youtube.com/watch?v=ELuErESIAfs)
