@@ -8,7 +8,7 @@
 
 ---
 
-I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of Random Cloud Chats podcast, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now DevRel. 
+I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of Random Cloud Chats podcast, Microsoft MVP, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now Developer Relations. 
 
 ---
 
