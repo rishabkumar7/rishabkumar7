@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/GH-Event-Demos/random-name-picker/issues/41#issuecomment-1609874690) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
-2. ❌ Closed PR [#11](https://github.com/rishabkumar7/the-devops-guide/pull/11) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-3. 🗣 Commented on [#11](https://github.com/rishabkumar7/the-devops-guide/pull/11#issuecomment-1598816930) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-4. 🔒 Closed issue [#9](https://github.com/rishabkumar7/the-devops-guide/issues/9) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-5. 🗣 Commented on [#9](https://github.com/rishabkumar7/the-devops-guide/issues/9#issuecomment-1598814012) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+1. 🗣 Commented on [#13](https://github.com/rishabkumar7/the-devops-guide/pull/13#issuecomment-1657257146) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+2. 🗣 Commented on [#41](https://github.com/GH-Event-Demos/random-name-picker/issues/41#issuecomment-1609874690) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
+3. ❌ Closed PR [#11](https://github.com/rishabkumar7/the-devops-guide/pull/11) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+4. 🗣 Commented on [#11](https://github.com/rishabkumar7/the-devops-guide/pull/11#issuecomment-1598816930) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+5. 🔒 Closed issue [#9](https://github.com/rishabkumar7/the-devops-guide/issues/9) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 <!--END_SECTION:activity-->
 
 <br/>
