@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I try building an API in Python | Project Idea](https://www.youtube.com/watch?v=LVuxmQfqivA)
 - [5 tips for having a successful career in tech #tech #career](https://www.youtube.com/watch?v=OYMQ1hdccF0)
 - [Navigating your Tech Career with @JamesQQuick](https://www.youtube.com/watch?v=jxywWNgvLeo)
 - [What is LangChain? Let&#39;s learn it!](https://www.youtube.com/watch?v=K0UBEeX7E8s)
 - [VSCode Extensions I use as a DevOps Engineer](https://www.youtube.com/watch?v=psJVKazKU8Y)
-- [Trying to learn Kubernetes #devops #kubernetes](https://www.youtube.com/watch?v=lHO13FsmsHc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
