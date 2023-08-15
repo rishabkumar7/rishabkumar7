@@ -23,7 +23,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [I try building an API in Python | Project Idea](https://www.youtube.com/watch?v=LVuxmQfqivA)
+- [Build an API for Peaky Blinders | Project Idea](https://www.youtube.com/watch?v=LVuxmQfqivA)
 - [5 tips for having a successful career in tech #tech #career](https://www.youtube.com/watch?v=OYMQ1hdccF0)
 - [Navigating your Tech Career with @JamesQQuick](https://www.youtube.com/watch?v=jxywWNgvLeo)
 - [What is LangChain? Let&#39;s learn it!](https://www.youtube.com/watch?v=K0UBEeX7E8s)
