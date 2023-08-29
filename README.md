@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#148](https://github.com/learntocloud/cloud-dictionary/issues/148) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-2. ❗ Opened issue [#147](https://github.com/learntocloud/cloud-dictionary/issues/147) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-3. 🔒 Closed issue [#146](https://github.com/learntocloud/cloud-dictionary/issues/146) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-4. 🗣 Commented on [#146](https://github.com/learntocloud/cloud-dictionary/issues/146#issuecomment-1695928094) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-5. 🎉 Merged PR [#167](https://github.com/learntocloud/learn-to-cloud/pull/167) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#148](https://github.com/learntocloud/cloud-dictionary/issues/148#issuecomment-1698139056) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+2. ❗ Opened issue [#155](https://github.com/learntocloud/cloud-dictionary/issues/155) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+3. 🔒 Closed issue [#154](https://github.com/learntocloud/cloud-dictionary/issues/154) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+4. 🗣 Commented on [#154](https://github.com/learntocloud/cloud-dictionary/issues/154#issuecomment-1698113682) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+5. ❗ Opened issue [#154](https://github.com/learntocloud/cloud-dictionary/issues/154) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
 <!--END_SECTION:activity-->
 
 <br/>
