@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#157](https://github.com/learntocloud/cloud-dictionary/issues/157) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-2. 🗣 Commented on [#157](https://github.com/learntocloud/cloud-dictionary/issues/157#issuecomment-1702889698) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-3. ❗ Opened issue [#157](https://github.com/learntocloud/cloud-dictionary/issues/157) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-4. 🔒 Closed issue [#144](https://github.com/learntocloud/cloud-dictionary/issues/144) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-5. 🗣 Commented on [#144](https://github.com/learntocloud/cloud-dictionary/issues/144#issuecomment-1699317612) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/7DaysOfPython/pull/2) in [rishabkumar7/7DaysOfPython](https://github.com/rishabkumar7/7DaysOfPython)
+2. 🔒 Closed issue [#157](https://github.com/learntocloud/cloud-dictionary/issues/157) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+3. 🗣 Commented on [#157](https://github.com/learntocloud/cloud-dictionary/issues/157#issuecomment-1702889698) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+4. ❗ Opened issue [#157](https://github.com/learntocloud/cloud-dictionary/issues/157) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+5. 🔒 Closed issue [#144](https://github.com/learntocloud/cloud-dictionary/issues/144) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
 <!--END_SECTION:activity-->
 
 <br/>
