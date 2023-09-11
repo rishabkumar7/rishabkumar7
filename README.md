@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Bootcamp to Cloud | Tech Careers with Linda Haviv | Episode 9](https://www.youtube.com/watch?v=-IDu8GZnIw0)
 - [AZ-400 Certification DevOps Engineer Azure Projects](https://www.youtube.com/watch?v=Ej5NqFApUmc)
 - [Day in the life of A Developer at a Conference | RefactorDX Toronto](https://www.youtube.com/watch?v=FgxovqgkzEQ)
 - [Focus Learn Build  - no BS advice](https://www.youtube.com/watch?v=tBCd0KxU6Ho)
 - [Beginner Cloud Project in AWS | Cloud Resume API](https://www.youtube.com/watch?v=-pKrT7Ix3G0)
-- [5 tips to have a successful tech career - part 2 #tech #career #tips](https://www.youtube.com/watch?v=5O5v1FWQl6M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
