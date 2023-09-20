@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#160](https://github.com/learntocloud/cloud-dictionary/issues/160) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-2. ❗ Opened issue [#159](https://github.com/learntocloud/cloud-dictionary/issues/159) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-4. 🗣 Commented on [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1#issuecomment-1713077336) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-5. 🎉 Merged PR [#2](https://github.com/rishabkumar7/7DaysOfPython/pull/2) in [rishabkumar7/7DaysOfPython](https://github.com/rishabkumar7/7DaysOfPython)
+1. 🔓 Reopened issue [#159](https://github.com/learntocloud/learn-to-cloud/issues/159) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#159](https://github.com/learntocloud/learn-to-cloud/issues/159#issuecomment-1728281140) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. ❗ Opened issue [#160](https://github.com/learntocloud/cloud-dictionary/issues/160) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+4. ❗ Opened issue [#159](https://github.com/learntocloud/cloud-dictionary/issues/159) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+5. 🎉 Merged PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
 <!--END_SECTION:activity-->
 
 <br/>
