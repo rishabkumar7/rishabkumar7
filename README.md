@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Taking the AZ-204 Azure Developer Associate #cloud #certification](https://www.youtube.com/watch?v=BNnyU6Qafo0)
 - [I passed the AZ-204 Azure Developer Associate Exam!](https://www.youtube.com/watch?v=4tDxShE9ctQ)
 - [Serverless Cloud Project AWS - QR Code Generator | Dev Vlog #2](https://www.youtube.com/watch?v=j8QZwM3LFDM)
 - [Bootcamp to Cloud | Tech Careers with Linda Haviv | Episode 9](https://www.youtube.com/watch?v=-IDu8GZnIw0)
 - [AZ-400 Certification DevOps Engineer Azure Projects](https://www.youtube.com/watch?v=Ej5NqFApUmc)
-- [Day in the life of A Developer at a Conference | RefactorDX Toronto](https://www.youtube.com/watch?v=FgxovqgkzEQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
