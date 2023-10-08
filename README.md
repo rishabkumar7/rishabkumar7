@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/piyushsachdeva/10weeksofcloudops/pull/1) in [piyushsachdeva/10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops)
-2. 🔓 Reopened issue [#159](https://github.com/learntocloud/learn-to-cloud/issues/159) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🗣 Commented on [#159](https://github.com/learntocloud/learn-to-cloud/issues/159#issuecomment-1728281140) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. ❗ Opened issue [#160](https://github.com/learntocloud/cloud-dictionary/issues/160) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
-5. ❗ Opened issue [#159](https://github.com/learntocloud/cloud-dictionary/issues/159) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
+1. 🗣 Commented on [#1](https://github.com/piyushsachdeva/10weeksofcloudops/pull/1#issuecomment-1752115814) in [piyushsachdeva/10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops)
+2. 💪 Opened PR [#1](https://github.com/piyushsachdeva/10weeksofcloudops/pull/1) in [piyushsachdeva/10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops)
+3. 🔓 Reopened issue [#159](https://github.com/learntocloud/learn-to-cloud/issues/159) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#159](https://github.com/learntocloud/learn-to-cloud/issues/159#issuecomment-1728281140) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. ❗ Opened issue [#160](https://github.com/learntocloud/cloud-dictionary/issues/160) in [learntocloud/cloud-dictionary](https://github.com/learntocloud/cloud-dictionary)
 <!--END_SECTION:activity-->
 
 <br/>
