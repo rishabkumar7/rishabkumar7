@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rishabkumar7/aws-resume-api/pull/3) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-2. 🗣 Commented on [#3](https://github.com/rishabkumar7/aws-resume-api/pull/3#issuecomment-1856009558) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-3. 🗣 Commented on [#2](https://github.com/rishabkumar7/aws-resume-api/pull/2#issuecomment-1856005933) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-4. 🗣 Commented on [#420](https://github.com/MichaelCade/90DaysOfDevOps/issues/420#issuecomment-1851551204) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-5. 🗣 Commented on [#424](https://github.com/MichaelCade/90DaysOfDevOps/issues/424#issuecomment-1851550210) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+1. 💪 Opened PR [#794](https://github.com/scraly/developers-conferences-agenda/pull/794) in [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
+2. 🎉 Merged PR [#3](https://github.com/rishabkumar7/aws-resume-api/pull/3) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+3. 🗣 Commented on [#3](https://github.com/rishabkumar7/aws-resume-api/pull/3#issuecomment-1856009558) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+4. 🗣 Commented on [#2](https://github.com/rishabkumar7/aws-resume-api/pull/2#issuecomment-1856005933) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+5. 🗣 Commented on [#420](https://github.com/MichaelCade/90DaysOfDevOps/issues/420#issuecomment-1851551204) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 <!--END_SECTION:activity-->
 
 <br/>
