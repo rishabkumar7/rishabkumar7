@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#172](https://github.com/learntocloud/learn-to-cloud/pull/172) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 💪 Opened PR [#177](https://github.com/learntocloud/learn-to-cloud/pull/177) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🗣 Commented on [#173](https://github.com/learntocloud/learn-to-cloud/pull/173#issuecomment-1872585815) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🗣 Commented on [#156](https://github.com/learntocloud/learn-to-cloud/issues/156#issuecomment-1872585160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 💪 Opened PR [#794](https://github.com/scraly/developers-conferences-agenda/pull/794) in [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
+1. 🗣 Commented on [#177](https://github.com/learntocloud/learn-to-cloud/pull/177#issuecomment-1872609174) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. ❌ Closed PR [#172](https://github.com/learntocloud/learn-to-cloud/pull/172) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 💪 Opened PR [#177](https://github.com/learntocloud/learn-to-cloud/pull/177) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#173](https://github.com/learntocloud/learn-to-cloud/pull/173#issuecomment-1872585815) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🗣 Commented on [#156](https://github.com/learntocloud/learn-to-cloud/issues/156#issuecomment-1872585160) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
