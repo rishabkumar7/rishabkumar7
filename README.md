@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#474](https://github.com/MichaelCade/90DaysOfDevOps/pull/474#issuecomment-1883214379) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-2. 🎉 Merged PR [#182](https://github.com/learntocloud/learn-to-cloud/pull/182) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 💪 Opened PR [#182](https://github.com/learntocloud/learn-to-cloud/pull/182) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🗣 Commented on [#156](https://github.com/learntocloud/learn-to-cloud/issues/156#issuecomment-1880123434) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 💪 Opened PR [#474](https://github.com/MichaelCade/90DaysOfDevOps/pull/474) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+1. ❌ Closed PR [#178](https://github.com/learntocloud/learn-to-cloud/pull/178) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. ❌ Closed PR [#176](https://github.com/learntocloud/learn-to-cloud/pull/176) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🎉 Merged PR [#180](https://github.com/learntocloud/learn-to-cloud/pull/180) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 💪 Opened PR [#184](https://github.com/learntocloud/learn-to-cloud/pull/184) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🗣 Commented on [#474](https://github.com/MichaelCade/90DaysOfDevOps/pull/474#issuecomment-1883214379) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 <!--END_SECTION:activity-->
 
 <br/>
