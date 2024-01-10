@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [certification giveaway, 2023 retro and 2024 plans](https://www.youtube.com/watch?v=3pYUhlygVSU)
 - [Learn this before Kubernetes](https://www.youtube.com/watch?v=y37cDE_8PiE)
 - [tech i am learning in 2024 &lpar;and 2023 recap&rpar;](https://www.youtube.com/watch?v=m4ieFZ_gTKo)
 - [Software Engineers should learn THIS in 2024!](https://www.youtube.com/watch?v=7BZctcW0iKM)
 - [Athlete to Cloud Engineer | Tech Careers with Ifeanyi Otuonye | Episode 10](https://www.youtube.com/watch?v=WiwvSZOMHmk)
+- [Day in the life of a Cloud Instructor - LinkedIn Learning California](https://www.youtube.com/watch?v=oArg42hixWU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
