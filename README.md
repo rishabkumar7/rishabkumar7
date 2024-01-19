@@ -36,11 +36,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I passed the GitHub Foundations Certification Exam](https://blog.rishabkumar.com/github-foundations-certification-exam)
 - [Learn This Before Diving into Kubernetes](https://blog.rishabkumar.com/learn-this-before-kubernetes)
 - [Deploying Grafana to Azure’s Web Apps for Containers](https://blog.rishabkumar.com/grafana-on-azure-web-app-containers)
 - [How I Passed LPI Linux Essentials Certification](https://blog.rishabkumar.com/how-i-passed-lpi-linux-essentials-certification)
 - [Understanding Docker - as an 11 year old](https://blog.rishabkumar.com/understanding-docker)
-- [Ultimate Docker Cheat Sheet](https://blog.rishabkumar.com/docker-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://blog.rishabkumar.com)
 
