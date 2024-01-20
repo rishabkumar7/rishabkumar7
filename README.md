@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/learntocloud/learn-to-cloud/pull/188) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. ❗ Opened issue [#187](https://github.com/learntocloud/learn-to-cloud/issues/187) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🎉 Merged PR [#186](https://github.com/learntocloud/learn-to-cloud/pull/186) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 💪 Opened PR [#186](https://github.com/learntocloud/learn-to-cloud/pull/186) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🗣 Commented on [#68](https://github.com/Hashnode/starter-kit/issues/68#issuecomment-1890649819) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+1. ❗ Opened issue [#77](https://github.com/Hashnode/starter-kit/issues/77) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+2. 💪 Opened PR [#188](https://github.com/learntocloud/learn-to-cloud/pull/188) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. ❗ Opened issue [#187](https://github.com/learntocloud/learn-to-cloud/issues/187) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🎉 Merged PR [#186](https://github.com/learntocloud/learn-to-cloud/pull/186) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 💪 Opened PR [#186](https://github.com/learntocloud/learn-to-cloud/pull/186) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
