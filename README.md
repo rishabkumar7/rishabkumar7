@@ -25,7 +25,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [GitHub now has certifications. #github #certification #coding](https://www.youtube.com/watch?v=p_Y8ucudu5I)
 - [Passed the GitHub Foundations Certification in 1 day!](https://www.youtube.com/watch?v=2-QiORv6wew)
-- [Azure Cloud Project - Serverless QR Code Generator](https://www.youtube.com/watch?v=b3obHVcBdfc)
+- [Build Hands On Cloud Project - Azure Serverless](https://www.youtube.com/watch?v=b3obHVcBdfc)
 - [Learn this before Kubernetes](https://www.youtube.com/watch?v=y37cDE_8PiE)
 - [tech i am learning in 2024 &lpar;and 2023 recap&rpar;](https://www.youtube.com/watch?v=m4ieFZ_gTKo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
