@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/learntocloud/define-the-cloud/issues/186#issuecomment-1913435330) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-2. ❗ Opened issue [#193](https://github.com/learntocloud/learn-to-cloud/issues/193) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🔒 Closed issue [#191](https://github.com/learntocloud/learn-to-cloud/issues/191) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🗣 Commented on [#191](https://github.com/learntocloud/learn-to-cloud/issues/191#issuecomment-1909239355) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🗣 Commented on [#191](https://github.com/learntocloud/learn-to-cloud/issues/191#issuecomment-1907033794) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#77](https://github.com/Hashnode/starter-kit/issues/77#issuecomment-1920493863) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+2. 🔒 Closed issue [#77](https://github.com/Hashnode/starter-kit/issues/77) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+3. 🗣 Commented on [#186](https://github.com/learntocloud/define-the-cloud/issues/186#issuecomment-1913435330) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+4. ❗ Opened issue [#193](https://github.com/learntocloud/learn-to-cloud/issues/193) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🔒 Closed issue [#191](https://github.com/learntocloud/learn-to-cloud/issues/191) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
