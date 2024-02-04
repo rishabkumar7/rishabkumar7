@@ -23,7 +23,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [FREE Google Cloud Certification 🔥](https://www.youtube.com/watch?v=v9YquG7FH6U)
+- [Get Google Cloud Certification 🔥](https://www.youtube.com/watch?v=v9YquG7FH6U)
 - [How I passed my GitHub Foundations Certification #github #certification](https://www.youtube.com/watch?v=1IxThMvCqwM)
 - [GitHub now has certifications. #github #certification #coding](https://www.youtube.com/watch?v=p_Y8ucudu5I)
 - [Passed the GitHub Foundations Certification in 1 day!](https://www.youtube.com/watch?v=2-QiORv6wew)
