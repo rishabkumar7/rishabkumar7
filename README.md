@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#194](https://github.com/learntocloud/learn-to-cloud/issues/194) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🗣 Commented on [#193](https://github.com/learntocloud/learn-to-cloud/issues/193#issuecomment-1927407694) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🔒 Closed issue [#193](https://github.com/learntocloud/learn-to-cloud/issues/193) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🗣 Commented on [#193](https://github.com/learntocloud/learn-to-cloud/issues/193#issuecomment-1927354618) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🗣 Commented on [#77](https://github.com/Hashnode/starter-kit/issues/77#issuecomment-1920493863) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+1. 🗣 Commented on [#194](https://github.com/learntocloud/learn-to-cloud/issues/194#issuecomment-1937788547) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🔒 Closed issue [#194](https://github.com/learntocloud/learn-to-cloud/issues/194) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. ❗ Opened issue [#194](https://github.com/learntocloud/learn-to-cloud/issues/194) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#193](https://github.com/learntocloud/learn-to-cloud/issues/193#issuecomment-1927407694) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🔒 Closed issue [#193](https://github.com/learntocloud/learn-to-cloud/issues/193) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
