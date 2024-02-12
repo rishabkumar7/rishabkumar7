@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Manage docker containers in terminal 🔥| lazydocker](https://www.youtube.com/watch?v=ljTDIzy5a_Q)
 - [3 ways to create an API in Python](https://www.youtube.com/watch?v=k8eu2QDikIc)
 - [Get Google Cloud Certification 🔥](https://www.youtube.com/watch?v=v9YquG7FH6U)
 - [How I passed my GitHub Foundations Certification #github #certification](https://www.youtube.com/watch?v=1IxThMvCqwM)
 - [GitHub now has certifications. #github #certification #coding](https://www.youtube.com/watch?v=p_Y8ucudu5I)
-- [Passed the GitHub Foundations Certification in 1 day!](https://www.youtube.com/watch?v=2-QiORv6wew)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
