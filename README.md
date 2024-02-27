@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17514](https://github.com/langchain-ai/langchain/issues/17514#issuecomment-1951438280) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. 🗣 Commented on [#196](https://github.com/learntocloud/learn-to-cloud/issues/196#issuecomment-1951432733) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. 🔒 Closed issue [#196](https://github.com/learntocloud/learn-to-cloud/issues/196) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. 🎉 Merged PR [#197](https://github.com/learntocloud/learn-to-cloud/pull/197) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🗣 Commented on [#196](https://github.com/learntocloud/learn-to-cloud/issues/196#issuecomment-1951429723) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#2](https://github.com/rishabkumar7/aws-resume-api/pull/2#issuecomment-1966989692) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+2. 🗣 Commented on [#17514](https://github.com/langchain-ai/langchain/issues/17514#issuecomment-1951438280) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 🗣 Commented on [#196](https://github.com/learntocloud/learn-to-cloud/issues/196#issuecomment-1951432733) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🔒 Closed issue [#196](https://github.com/learntocloud/learn-to-cloud/issues/196) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 🎉 Merged PR [#197](https://github.com/learntocloud/learn-to-cloud/pull/197) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
