@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/stoic-quotes/pull/2) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-2. 🗣 Commented on [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1#issuecomment-1970165153) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-3. 🔒 Closed issue [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-4. 💪 Opened PR [#2](https://github.com/rishabkumar7/stoic-quotes/pull/2) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-5. ❗ Opened issue [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+1. ❗ Opened issue [#3](https://github.com/rishabkumar7/stoic-quotes/issues/3) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+2. 🎉 Merged PR [#2](https://github.com/rishabkumar7/stoic-quotes/pull/2) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+3. 🗣 Commented on [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1#issuecomment-1970165153) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+4. 🔒 Closed issue [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+5. 💪 Opened PR [#2](https://github.com/rishabkumar7/stoic-quotes/pull/2) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
 <!--END_SECTION:activity-->
 
 <br/>
