@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-2. 🗣 Commented on [#2](https://github.com/rishabkumar7/aws-resume-api/pull/2#issuecomment-1966989692) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-3. 🗣 Commented on [#17514](https://github.com/langchain-ai/langchain/issues/17514#issuecomment-1951438280) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. 🗣 Commented on [#196](https://github.com/learntocloud/learn-to-cloud/issues/196#issuecomment-1951432733) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🔒 Closed issue [#196](https://github.com/learntocloud/learn-to-cloud/issues/196) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/stoic-quotes/pull/2) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+2. 🗣 Commented on [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1#issuecomment-1970165153) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+3. 🔒 Closed issue [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+4. 💪 Opened PR [#2](https://github.com/rishabkumar7/stoic-quotes/pull/2) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+5. ❗ Opened issue [#1](https://github.com/rishabkumar7/stoic-quotes/issues/1) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
 <!--END_SECTION:activity-->
 
 <br/>
