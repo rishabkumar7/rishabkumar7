@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2841](https://github.com/open-sauced/app/pull/2841) in [open-sauced/app](https://github.com/open-sauced/app)
-2. 🗣 Commented on [#2838](https://github.com/open-sauced/app/issues/2838#issuecomment-1973418234) in [open-sauced/app](https://github.com/open-sauced/app)
-3. 🗣 Commented on [#2838](https://github.com/open-sauced/app/issues/2838#issuecomment-1973413441) in [open-sauced/app](https://github.com/open-sauced/app)
-4. ❗ Opened issue [#3](https://github.com/rishabkumar7/stoic-quotes/issues/3) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-5. 🎉 Merged PR [#2](https://github.com/rishabkumar7/stoic-quotes/pull/2) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+2. 💪 Opened PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+3. 💪 Opened PR [#2841](https://github.com/open-sauced/app/pull/2841) in [open-sauced/app](https://github.com/open-sauced/app)
+4. 🗣 Commented on [#2838](https://github.com/open-sauced/app/issues/2838#issuecomment-1973418234) in [open-sauced/app](https://github.com/open-sauced/app)
+5. 🗣 Commented on [#2838](https://github.com/open-sauced/app/issues/2838#issuecomment-1973413441) in [open-sauced/app](https://github.com/open-sauced/app)
 <!--END_SECTION:activity-->
 
 <br/>
