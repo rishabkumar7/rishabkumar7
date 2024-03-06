@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-2. 💪 Opened PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
-3. 💪 Opened PR [#2841](https://github.com/open-sauced/app/pull/2841) in [open-sauced/app](https://github.com/open-sauced/app)
-4. 🗣 Commented on [#2838](https://github.com/open-sauced/app/issues/2838#issuecomment-1973418234) in [open-sauced/app](https://github.com/open-sauced/app)
-5. 🗣 Commented on [#2838](https://github.com/open-sauced/app/issues/2838#issuecomment-1973413441) in [open-sauced/app](https://github.com/open-sauced/app)
+1. 🗣 Commented on [#474](https://github.com/MichaelCade/90DaysOfDevOps/pull/474#issuecomment-1981683779) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+2. ❌ Closed PR [#474](https://github.com/MichaelCade/90DaysOfDevOps/pull/474) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+4. 💪 Opened PR [#1](https://github.com/rishabkumar7/aws-resume-api/pull/1) in [rishabkumar7/aws-resume-api](https://github.com/rishabkumar7/aws-resume-api)
+5. 💪 Opened PR [#2841](https://github.com/open-sauced/app/pull/2841) in [open-sauced/app](https://github.com/open-sauced/app)
 <!--END_SECTION:activity-->
 
 <br/>
