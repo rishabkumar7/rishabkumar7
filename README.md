@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Beginner GCP Cloud Project | GCP Cloud ResumeAPI](https://www.youtube.com/watch?v=9jkzzDHRkZU)
 - [Beginner Cloud Project - The Cloud Resume API Challenge](https://www.youtube.com/watch?v=iZq8aaGMpjM)
 - [Transitioning into tech and future of AI](https://www.youtube.com/watch?v=jjIgn4hsDP8)
 - [Deploy your Website for free Cloudflare Pages](https://www.youtube.com/watch?v=k7fUkTQvCzk)
 - [Ollama on Windows | Run LLMs locally 🔥](https://www.youtube.com/watch?v=Asleok-Snfs)
-- [Learning Kubernetes - Hands-on guide to get started with Azure and Terraform](https://www.youtube.com/watch?v=J_aInEIBzE0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
