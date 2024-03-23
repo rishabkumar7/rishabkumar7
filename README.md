@@ -36,11 +36,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cloud Resume API Challenge - Beginner Cloud Project](https://blog.rishabkumar.com/cloud-resume-api-challenge)
 - [How I passed the Azure AZ-204 Certification Exam](https://blog.rishabkumar.com/azure-az-204-study-guide)
 - [Should you include .terraform.lock.hcl in .gitignore?](https://blog.rishabkumar.com/terraform-lock-hcl-to-gitignore-or-commit)
 - [How I passed the GitHub Foundations Certification Exam](https://blog.rishabkumar.com/github-foundations-certification-exam)
 - [Learn This Before Diving into Kubernetes](https://blog.rishabkumar.com/learn-this-before-kubernetes)
-- [Deploying Grafana to Azure’s Web Apps for Containers](https://blog.rishabkumar.com/grafana-on-azure-web-app-containers)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://blog.rishabkumar.com)
 
