@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/rishabkumar7/cloud-resume-api/pull/2) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🎉 Merged PR [#5](https://github.com/rishabkumar7/cloud-resume-api/pull/5) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-3. 🎉 Merged PR [#4](https://github.com/rishabkumar7/stoic-quotes/pull/4) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-4. 💪 Opened PR [#4](https://github.com/rishabkumar7/stoic-quotes/pull/4) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
-5. 💪 Opened PR [#501](https://github.com/MichaelCade/90DaysOfDevOps/pull/501) in [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+1. 💪 Opened PR [#110](https://github.com/Hashnode/starter-kit/pull/110) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+2. ❌ Closed PR [#2](https://github.com/rishabkumar7/cloud-resume-api/pull/2) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🎉 Merged PR [#5](https://github.com/rishabkumar7/cloud-resume-api/pull/5) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+4. 🎉 Merged PR [#4](https://github.com/rishabkumar7/stoic-quotes/pull/4) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
+5. 💪 Opened PR [#4](https://github.com/rishabkumar7/stoic-quotes/pull/4) in [rishabkumar7/stoic-quotes](https://github.com/rishabkumar7/stoic-quotes)
 <!--END_SECTION:activity-->
 
 <br/>
