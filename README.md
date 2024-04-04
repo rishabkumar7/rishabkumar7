@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rishabkumar7/cloud-resume-api/pull/6) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🗣 Commented on [#6](https://github.com/rishabkumar7/cloud-resume-api/pull/6#issuecomment-2023337714) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-3. 💪 Opened PR [#110](https://github.com/Hashnode/starter-kit/pull/110) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
-4. ❌ Closed PR [#2](https://github.com/rishabkumar7/cloud-resume-api/pull/2) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-5. 🎉 Merged PR [#5](https://github.com/rishabkumar7/cloud-resume-api/pull/5) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. 💪 Opened PR [#3821](https://github.com/public-apis/public-apis/pull/3821) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 🎉 Merged PR [#6](https://github.com/rishabkumar7/cloud-resume-api/pull/6) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🗣 Commented on [#6](https://github.com/rishabkumar7/cloud-resume-api/pull/6#issuecomment-2023337714) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+4. 💪 Opened PR [#110](https://github.com/Hashnode/starter-kit/pull/110) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+5. ❌ Closed PR [#2](https://github.com/rishabkumar7/cloud-resume-api/pull/2) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
 <!--END_SECTION:activity-->
 
 <br/>
