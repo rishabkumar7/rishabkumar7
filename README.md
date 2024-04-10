@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learn these AWS Services in 2024](https://www.youtube.com/watch?v=QWWcVfeIhY0)
 - [Deploy infrastructure to AWS with Terraform | Full Course](https://www.youtube.com/watch?v=P4A62b1dkJE)
 - [AWS re:Invent 2023 vlog | India to Vegas](https://www.youtube.com/watch?v=a_DGvRIqMSE)
 - [Beginner GCP Cloud Project | GCP Cloud Resume API](https://www.youtube.com/watch?v=9jkzzDHRkZU)
 - [Beginner Cloud Project - The Cloud Resume API Challenge](https://www.youtube.com/watch?v=iZq8aaGMpjM)
-- [Transitioning into tech and future of AI](https://www.youtube.com/watch?v=jjIgn4hsDP8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
