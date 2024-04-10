@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2048159251) in [dapr/cli](https://github.com/dapr/cli)
-2. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2048132239) in [dapr/cli](https://github.com/dapr/cli)
-3. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2047833888) in [dapr/cli](https://github.com/dapr/cli)
-4. 💪 Opened PR [#3821](https://github.com/public-apis/public-apis/pull/3821) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-5. 🎉 Merged PR [#6](https://github.com/rishabkumar7/cloud-resume-api/pull/6) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. 🗣 Commented on [#92](https://github.com/dapr/website/issues/92#issuecomment-2048328491) in [dapr/website](https://github.com/dapr/website)
+2. 🗣 Commented on [#92](https://github.com/dapr/website/issues/92#issuecomment-2048320667) in [dapr/website](https://github.com/dapr/website)
+3. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2048291418) in [dapr/cli](https://github.com/dapr/cli)
+4. 💪 Opened PR [#1399](https://github.com/dapr/cli/pull/1399) in [dapr/cli](https://github.com/dapr/cli)
+5. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2048159251) in [dapr/cli](https://github.com/dapr/cli)
 <!--END_SECTION:activity-->
 
 <br/>
