@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2050275100) in [dapr/cli](https://github.com/dapr/cli)
-2. 🗣 Commented on [#92](https://github.com/dapr/website/issues/92#issuecomment-2048328491) in [dapr/website](https://github.com/dapr/website)
-3. 🗣 Commented on [#92](https://github.com/dapr/website/issues/92#issuecomment-2048320667) in [dapr/website](https://github.com/dapr/website)
-4. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2048291418) in [dapr/cli](https://github.com/dapr/cli)
-5. 💪 Opened PR [#1399](https://github.com/dapr/cli/pull/1399) in [dapr/cli](https://github.com/dapr/cli)
+1. 🗣 Commented on [#92](https://github.com/dapr/website/issues/92#issuecomment-2052231448) in [dapr/website](https://github.com/dapr/website)
+2. 💪 Opened PR [#93](https://github.com/dapr/website/pull/93) in [dapr/website](https://github.com/dapr/website)
+3. 🗣 Commented on [#1398](https://github.com/dapr/cli/issues/1398#issuecomment-2050275100) in [dapr/cli](https://github.com/dapr/cli)
+4. 🗣 Commented on [#92](https://github.com/dapr/website/issues/92#issuecomment-2048328491) in [dapr/website](https://github.com/dapr/website)
+5. 🗣 Commented on [#92](https://github.com/dapr/website/issues/92#issuecomment-2048320667) in [dapr/website](https://github.com/dapr/website)
 <!--END_SECTION:activity-->
 
 <br/>
