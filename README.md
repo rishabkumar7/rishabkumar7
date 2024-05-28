@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/rishabkumar7/cloud-resume-api/pull/7) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🗣 Commented on [#7](https://github.com/rishabkumar7/cloud-resume-api/pull/7#issuecomment-2133989249) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-3. 🗣 Commented on [#7](https://github.com/rishabkumar7/cloud-resume-api/pull/7#issuecomment-2131415119) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-4. 🎉 Merged PR [#8](https://github.com/rishabkumar7/cloud-resume-api/pull/8) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-5. 🗣 Commented on [#8](https://github.com/rishabkumar7/cloud-resume-api/pull/8#issuecomment-2125406262) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. 🔒 Closed issue [#202](https://github.com/learntocloud/learn-to-cloud/issues/202) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🎉 Merged PR [#203](https://github.com/learntocloud/learn-to-cloud/pull/203) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 💪 Opened PR [#203](https://github.com/learntocloud/learn-to-cloud/pull/203) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🎉 Merged PR [#7](https://github.com/rishabkumar7/cloud-resume-api/pull/7) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+5. 🗣 Commented on [#7](https://github.com/rishabkumar7/cloud-resume-api/pull/7#issuecomment-2133989249) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
 <!--END_SECTION:activity-->
 
 <br/>
