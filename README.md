@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0 en](https://github.com/rishabkumar7/uptime-status/releases/tag/v2.0.0) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
-2. 🎉 Merged PR [#1](https://github.com/rishabkumar7/uptime-status/pull/1) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
-3. 💪 Opened PR [#1](https://github.com/rishabkumar7/uptime-status/pull/1) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
-4. 💪 Opened PR [#204](https://github.com/learntocloud/learn-to-cloud/pull/204) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🔒 Closed issue [#202](https://github.com/learntocloud/learn-to-cloud/issues/202) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2174358992) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+2. 🚀 Published release [v2.0.0 en](https://github.com/rishabkumar7/uptime-status/releases/tag/v2.0.0) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
+3. 🎉 Merged PR [#1](https://github.com/rishabkumar7/uptime-status/pull/1) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
+4. 💪 Opened PR [#1](https://github.com/rishabkumar7/uptime-status/pull/1) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
+5. 💪 Opened PR [#204](https://github.com/learntocloud/learn-to-cloud/pull/204) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
