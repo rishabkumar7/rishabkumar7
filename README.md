@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Study with me for Azure AI Certification #azure #cloud #ai](https://www.youtube.com/watch?v=EHtj0Puzcwg)
 - [How I would learn DevOps in 2024 | DevOps Roadmap](https://www.youtube.com/watch?v=Ss-5qdrMz2Q)
 - [BenQ Halo ScreenBar helps me a lot for coding sessions! #coding #setup](https://www.youtube.com/watch?v=PK2D38XtULg)
 - [What is Portainer? | best tool to manage containers?](https://www.youtube.com/watch?v=epUqbtQSx_g)
 - [AWS empty S3 can cause MASSIVE bill! #aws #cloud #cloudcomputing](https://www.youtube.com/watch?v=B3J1bd5oJ-0)
-- [Private S3 BUCKET Massive AWS Bill!](https://www.youtube.com/watch?v=hxHuLqQvOjs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
