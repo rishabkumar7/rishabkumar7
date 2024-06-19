@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2176281532) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-2. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2174358992) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-3. 🚀 Published release [v2.0.0 en](https://github.com/rishabkumar7/uptime-status/releases/tag/v2.0.0) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
-4. 🎉 Merged PR [#1](https://github.com/rishabkumar7/uptime-status/pull/1) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
-5. 💪 Opened PR [#1](https://github.com/rishabkumar7/uptime-status/pull/1) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
+1. 🎉 Merged PR [#17](https://github.com/rishabkumar7/the-devops-guide/pull/17) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+2. 💪 Opened PR [#17](https://github.com/rishabkumar7/the-devops-guide/pull/17) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+3. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2176281532) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+4. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2174358992) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+5. 🚀 Published release [v2.0.0 en](https://github.com/rishabkumar7/uptime-status/releases/tag/v2.0.0) in [rishabkumar7/uptime-status](https://github.com/rishabkumar7/uptime-status)
 <!--END_SECTION:activity-->
 
 <br/>
