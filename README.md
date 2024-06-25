@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2185420457) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-2. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2185419257) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-3. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2185418456) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-4. 🎉 Merged PR [#7](https://github.com/rishabkumar7/CloudNotes/pull/7) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-5. 💪 Opened PR [#7](https://github.com/rishabkumar7/CloudNotes/pull/7) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+1. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2189408875) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+2. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2185420457) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+3. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2185419257) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+4. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2185418456) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+5. 🎉 Merged PR [#7](https://github.com/rishabkumar7/CloudNotes/pull/7) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
 <!--END_SECTION:activity-->
 
 <br/>
