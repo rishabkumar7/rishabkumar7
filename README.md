@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/rishabkumar7/cloud-resume-api/pull/14) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🗣 Commented on [#14](https://github.com/rishabkumar7/cloud-resume-api/pull/14#issuecomment-2207437205) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-3. 🗣 Commented on [#13](https://github.com/rishabkumar7/cloud-resume-api/pull/13#issuecomment-2207436250) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-4. 🎉 Merged PR [#12](https://github.com/rishabkumar7/cloud-resume-api/pull/12) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-5. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2195036490) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
+1. 🎉 Merged PR [#13](https://github.com/rishabkumar7/cloud-resume-api/pull/13) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+2. 🗣 Commented on [#13](https://github.com/rishabkumar7/cloud-resume-api/pull/13#issuecomment-2211373551) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🎉 Merged PR [#14](https://github.com/rishabkumar7/cloud-resume-api/pull/14) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+4. 🗣 Commented on [#14](https://github.com/rishabkumar7/cloud-resume-api/pull/14#issuecomment-2207437205) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+5. 🗣 Commented on [#13](https://github.com/rishabkumar7/cloud-resume-api/pull/13#issuecomment-2207436250) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
 <!--END_SECTION:activity-->
 
 <br/>
