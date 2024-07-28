@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/rishabkumar7/cloud-resume-api/pull/28) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🎉 Merged PR [#29](https://github.com/rishabkumar7/cloud-resume-api/pull/29) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-3. 🎉 Merged PR [#24](https://github.com/rishabkumar7/cloud-resume-api/pull/24) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-4. 💪 Opened PR [#544](https://github.com/twilio-labs/function-templates/pull/544) in [twilio-labs/function-templates](https://github.com/twilio-labs/function-templates)
-5. 🎉 Merged PR [#22](https://github.com/rishabkumar7/cloud-resume-api/pull/22) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. 🎉 Merged PR [#32](https://github.com/rishabkumar7/cloud-resume-api/pull/32) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+2. 🎉 Merged PR [#30](https://github.com/rishabkumar7/cloud-resume-api/pull/30) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🎉 Merged PR [#28](https://github.com/rishabkumar7/cloud-resume-api/pull/28) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+4. 🎉 Merged PR [#29](https://github.com/rishabkumar7/cloud-resume-api/pull/29) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+5. 🎉 Merged PR [#24](https://github.com/rishabkumar7/cloud-resume-api/pull/24) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
 <!--END_SECTION:activity-->
 
 <br/>
