@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/rishabkumar7/cloud-resume-api/pull/33) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🗣 Commented on [#1](https://github.com/rishabkumar7/devops-qr-code/pull/1#issuecomment-2254694056) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
-3. 🗣 Commented on [#3](https://github.com/rishabkumar7/devops-qr-code/pull/3#issuecomment-2254693790) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
-4. 🗣 Commented on [#4](https://github.com/rishabkumar7/devops-qr-code/issues/4#issuecomment-2254693363) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
-5. 🗣 Commented on [#33](https://github.com/rishabkumar7/cloud-resume-api/pull/33#issuecomment-2254692116) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. 🎉 Merged PR [#34](https://github.com/rishabkumar7/cloud-resume-api/pull/34) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+2. 🎉 Merged PR [#33](https://github.com/rishabkumar7/cloud-resume-api/pull/33) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🗣 Commented on [#1](https://github.com/rishabkumar7/devops-qr-code/pull/1#issuecomment-2254694056) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
+4. 🗣 Commented on [#3](https://github.com/rishabkumar7/devops-qr-code/pull/3#issuecomment-2254693790) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
+5. 🗣 Commented on [#4](https://github.com/rishabkumar7/devops-qr-code/issues/4#issuecomment-2254693363) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
 <!--END_SECTION:activity-->
 
 <br/>
