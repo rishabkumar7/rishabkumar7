@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Dockerize the application - Python and NextJS | DevOps Capstone Project](https://www.youtube.com/watch?v=-GPCdrUTtss)
 - [Understanding Docker | Docker Crash Course](https://www.youtube.com/watch?v=s7fnNNV-CM4)
 - [The ONLY DevOps Project you need!](https://www.youtube.com/watch?v=id_Zabf-4eA)
 - [How I passed the AI-102 exam | Azure AI Engineer Associate Certification](https://www.youtube.com/watch?v=iz3d2WX6IS4)
 - [Study with me for Azure AI Certification #azure #cloud #ai](https://www.youtube.com/watch?v=EHtj0Puzcwg)
-- [How I would learn DevOps in 2024 | DevOps Roadmap](https://www.youtube.com/watch?v=Ss-5qdrMz2Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
