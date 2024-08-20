@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Tech Career Journey of International Student | My First Keynote | Canada](https://www.youtube.com/watch?v=6qJBQmXFr7Q)
 - [Build and Push Docker Images with GitHub Actions](https://www.youtube.com/watch?v=x7f9x30W_dI)
 - [AI Cloud project I am building #ai #azure #cloud](https://www.youtube.com/watch?v=9t5cZmRkjyM)
 - [How I passed GitHub Actions Certification](https://www.youtube.com/watch?v=IvKwyQt8IVY)
 - [Dockerize the application - Python and NextJS | DevOps Capstone Project](https://www.youtube.com/watch?v=-GPCdrUTtss)
-- [Understanding Docker | Docker Crash Course](https://www.youtube.com/watch?v=s7fnNNV-CM4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
