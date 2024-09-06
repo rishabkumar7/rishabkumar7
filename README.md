@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/rishabkumar7/cloud-resume-api/pull/34#issuecomment-2327026577) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🗣 Commented on [#34](https://github.com/rishabkumar7/cloud-resume-api/pull/34#issuecomment-2326989437) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-3. 🗣 Commented on [#22](https://github.com/rishabkumar7/cloud-resume-api/pull/22#issuecomment-2326948440) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-4. 🗣 Commented on [#34](https://github.com/rishabkumar7/cloud-resume-api/pull/34#issuecomment-2326947463) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-5. 🗣 Commented on [#28](https://github.com/rishabkumar7/cloud-resume-api/pull/28#issuecomment-2326945023) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. 🗣 Commented on [#50](https://github.com/rishabkumar7/cloud-resume-api/pull/50#issuecomment-2334195657) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+2. 🗣 Commented on [#34](https://github.com/rishabkumar7/cloud-resume-api/pull/34#issuecomment-2327026577) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🗣 Commented on [#34](https://github.com/rishabkumar7/cloud-resume-api/pull/34#issuecomment-2326989437) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+4. 🗣 Commented on [#22](https://github.com/rishabkumar7/cloud-resume-api/pull/22#issuecomment-2326948440) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+5. 🗣 Commented on [#34](https://github.com/rishabkumar7/cloud-resume-api/pull/34#issuecomment-2326947463) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
 <!--END_SECTION:activity-->
 
 <br/>
