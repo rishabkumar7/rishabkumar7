@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Undestanding Kubernetes YAML and Deploying to Kubernetes Cluster](https://www.youtube.com/watch?v=iyj2pzYrea0)
 - [5 Lessons after 6 years in tech](https://www.youtube.com/watch?v=Ppdq7U84X4M)
 - [Deploy AWS EKS Cluster with Terraform | DevOps Capstone Project](https://www.youtube.com/watch?v=LZssMfdJSeM)
 - [Cloud Resume API Challenge Giveaway Winners](https://www.youtube.com/watch?v=Qx2somuO8c0)
 - [3 ways to interact with Ollama | Ollama with LangChain](https://www.youtube.com/watch?v=cEv1ucRDoa0)
-- [Tech Career Journey of International Student | My First Keynote | Canada](https://www.youtube.com/watch?v=6qJBQmXFr7Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
