@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/rishabkumar7/CloudNotes/pull/8) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-2. 💪 Opened PR [#8](https://github.com/rishabkumar7/CloudNotes/pull/8) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-3. 🗣 Commented on [#2](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python/pull/2#issuecomment-2334760335) in [twilio-samples/send-and-receive-sms-anonymously-python](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python)
-4. 💪 Opened PR [#2](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python/pull/2) in [twilio-samples/send-and-receive-sms-anonymously-python](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python)
-5. 🗣 Commented on [#47](https://github.com/rishabkumar7/cloud-resume-api/pull/47#issuecomment-2334275515) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. 🗣 Commented on [#207](https://github.com/learntocloud/learn-to-cloud/issues/207#issuecomment-2376976401) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🎉 Merged PR [#8](https://github.com/rishabkumar7/CloudNotes/pull/8) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+3. 💪 Opened PR [#8](https://github.com/rishabkumar7/CloudNotes/pull/8) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+4. 🗣 Commented on [#2](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python/pull/2#issuecomment-2334760335) in [twilio-samples/send-and-receive-sms-anonymously-python](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python)
+5. 💪 Opened PR [#2](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python/pull/2) in [twilio-samples/send-and-receive-sms-anonymously-python](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python)
 <!--END_SECTION:activity-->
 
 <br/>
