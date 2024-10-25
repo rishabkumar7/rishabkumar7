@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [L2C Cloud Internship](https://www.youtube.com/watch?v=IOQwtthu9T0)
 - [Hiring Cloud Engineer](https://www.youtube.com/watch?v=MGKEq9uSQS4)
 - [Learn Linux command-line with hands on lab](https://www.youtube.com/watch?v=_1ri-RKm_A8)
 - [How to Deploy FastAPI on AWS Lambda](https://www.youtube.com/watch?v=b0XCH04K8eQ)
 - [Understanding Kubernetes YAML and Deploying to Kubernetes Cluster](https://www.youtube.com/watch?v=iyj2pzYrea0)
-- [5 Lessons after 6 years in tech](https://www.youtube.com/watch?v=Ppdq7U84X4M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
