@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#211](https://github.com/learntocloud/learn-to-cloud/pull/211) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🗣 Commented on [#13](https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python/pull/13#issuecomment-2433394880) in [twilio-samples/speech-assistant-openai-realtime-api-python](https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python)
-3. ❌ Closed PR [#1](https://github.com/learntocloud/ltc-linux-challenge/pull/1) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-4. 🎉 Merged PR [#209](https://github.com/learntocloud/learn-to-cloud/pull/209) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 💪 Opened PR [#209](https://github.com/learntocloud/learn-to-cloud/pull/209) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. 🎉 Merged PR [#212](https://github.com/learntocloud/learn-to-cloud/pull/212) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 💪 Opened PR [#212](https://github.com/learntocloud/learn-to-cloud/pull/212) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 💪 Opened PR [#211](https://github.com/learntocloud/learn-to-cloud/pull/211) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#13](https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python/pull/13#issuecomment-2433394880) in [twilio-samples/speech-assistant-openai-realtime-api-python](https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python)
+5. ❌ Closed PR [#1](https://github.com/learntocloud/ltc-linux-challenge/pull/1) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
 <!--END_SECTION:activity-->
 
 <br/>
