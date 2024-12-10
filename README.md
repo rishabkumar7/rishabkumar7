@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2528988332) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-2. 🗣 Commented on [#5](https://github.com/learntocloud/ltc-linux-challenge/pull/5#issuecomment-2506630276) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-3. 🗣 Commented on [#194](https://github.com/learntocloud/define-the-cloud/pull/194#issuecomment-2505056213) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-4. 🗣 Commented on [#220](https://github.com/learntocloud/learn-to-cloud/issues/220#issuecomment-2504690497) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-5. 🗣 Commented on [#3](https://github.com/learntocloud/ltc-linux-challenge/issues/3#issuecomment-2495592345) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+1. 🎉 Merged PR [#7](https://github.com/learntocloud/ltc-linux-challenge/pull/7) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+2. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2529374280) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+3. 💪 Opened PR [#7](https://github.com/learntocloud/ltc-linux-challenge/pull/7) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+4. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2528988332) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+5. 🗣 Commented on [#5](https://github.com/learntocloud/ltc-linux-challenge/pull/5#issuecomment-2506630276) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
 <!--END_SECTION:activity-->
 
 <br/>
