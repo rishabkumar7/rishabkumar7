@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/learntocloud/ltc-linux-challenge/pull/7) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-2. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2529374280) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-3. 💪 Opened PR [#7](https://github.com/learntocloud/ltc-linux-challenge/pull/7) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-4. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2528988332) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-5. 🗣 Commented on [#5](https://github.com/learntocloud/ltc-linux-challenge/pull/5#issuecomment-2506630276) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+1. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2529939364) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+2. 🎉 Merged PR [#7](https://github.com/learntocloud/ltc-linux-challenge/pull/7) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+3. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2529374280) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+4. 💪 Opened PR [#7](https://github.com/learntocloud/ltc-linux-challenge/pull/7) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+5. 🗣 Commented on [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6#issuecomment-2528988332) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
 <!--END_SECTION:activity-->
 
 <br/>
