@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [December 24, 2024](https://www.youtube.com/watch?v=ozQS9aNM7o0)
 - [Always FREE VM Oracle Cloud](https://www.youtube.com/watch?v=uyuHSFo0QQo)
 - [From Help Desk to Cloud Engineer | How I transitioned](https://www.youtube.com/watch?v=Sh15UCovHqc)
 - [cloud engineer internship QA](https://www.youtube.com/watch?v=IOQwtthu9T0)
 - [Hiring Cloud Engineer](https://www.youtube.com/watch?v=MGKEq9uSQS4)
-- [Learn Linux command-line with hands on lab](https://www.youtube.com/watch?v=_1ri-RKm_A8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
