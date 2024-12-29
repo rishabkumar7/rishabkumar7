@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/learntocloud/ltc-linux-challenge/pull/9) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-2. 🗣 Commented on [#8](https://github.com/learntocloud/ltc-linux-challenge/issues/8#issuecomment-2537255501) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-3. 🔒 Closed issue [#8](https://github.com/learntocloud/ltc-linux-challenge/issues/8) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-4. 💪 Opened PR [#9](https://github.com/learntocloud/ltc-linux-challenge/pull/9) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-5. 🎉 Merged PR [#6](https://github.com/learntocloud/ltc-linux-challenge/pull/6) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+1. 🗣 Commented on [#59](https://github.com/rishabkumar7/cloud-resume-api/pull/59#issuecomment-2564846684) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+2. 🗣 Commented on [#60](https://github.com/rishabkumar7/cloud-resume-api/pull/60#issuecomment-2564846587) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🗣 Commented on [#61](https://github.com/rishabkumar7/cloud-resume-api/pull/61#issuecomment-2564846416) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+4. 🎉 Merged PR [#9](https://github.com/learntocloud/ltc-linux-challenge/pull/9) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+5. 🗣 Commented on [#8](https://github.com/learntocloud/ltc-linux-challenge/issues/8#issuecomment-2537255501) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
 <!--END_SECTION:activity-->
 
 <br/>
