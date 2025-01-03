@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/learntocloud/ltc-linux-challenge/issues/11) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-2. 🗣 Commented on [#11](https://github.com/learntocloud/ltc-linux-challenge/issues/11#issuecomment-2566877547) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-3. ❗ Opened issue [#11](https://github.com/learntocloud/ltc-linux-challenge/issues/11) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-4. ❗ Opened issue [#10](https://github.com/learntocloud/ltc-linux-challenge/issues/10) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
-5. 🗣 Commented on [#59](https://github.com/rishabkumar7/cloud-resume-api/pull/59#issuecomment-2564846684) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+1. ❗ Opened issue [#12](https://github.com/learntocloud/ltc-linux-challenge/issues/12) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+2. 🔒 Closed issue [#11](https://github.com/learntocloud/ltc-linux-challenge/issues/11) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+3. 🗣 Commented on [#11](https://github.com/learntocloud/ltc-linux-challenge/issues/11#issuecomment-2566877547) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+4. ❗ Opened issue [#11](https://github.com/learntocloud/ltc-linux-challenge/issues/11) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
+5. ❗ Opened issue [#10](https://github.com/learntocloud/ltc-linux-challenge/issues/10) in [learntocloud/ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge)
 <!--END_SECTION:activity-->
 
 <br/>
