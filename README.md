@@ -36,11 +36,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI as AWS Lambda Function](https://blog.rishabkumar.com/fastapi-as-aws-lambda-function)
 - [Deploying Uptime Kuma to GCP using Terraform](https://blog.rishabkumar.com/deploy-uptime-kuma-to-gcp-terraform)
 - [How to Pass the AI-102 Azure AI Engineer Associate Certification](https://blog.rishabkumar.com/pass-ai-102-azure-ai-engineer-associate)
 - [The Digital Thief: How Smartphones Are Robbing Us!](https://blog.rishabkumar.com/how-smartphones-are-robbing-us)
 - [The Cloud Resume API Challenge - Beginner Cloud Project](https://blog.rishabkumar.com/cloud-resume-api-challenge)
+- [How I passed the Azure AZ-204 Certification Exam](https://blog.rishabkumar.com/azure-az-204-study-guide)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://blog.rishabkumar.com)
 
