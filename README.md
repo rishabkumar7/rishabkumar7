@@ -23,11 +23,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I upgraded my monitor |  BenQ RD320UA Monitor for Programming](https://www.youtube.com/watch?v=BT_WLVZBuJo)
 - [How I passed AWS AI Practitioner Certification](https://www.youtube.com/watch?v=kf2m0KZQnWE)
 - [Learn Linux with these FREE Labs](https://www.youtube.com/watch?v=G55qqNxghs4)
 - [Chat with PDFs with Deepseek Ollama LangChain](https://www.youtube.com/watch?v=vfpe2S22g4c)
 - [Improvements to the Linux Labs #learning #linux](https://www.youtube.com/watch?v=lQV6VmSWv6s)
-- [Networking Roadmap for Cloud and DevOps](https://www.youtube.com/watch?v=_mC7X_M5as0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
