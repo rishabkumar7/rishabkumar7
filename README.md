@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2741006897) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-2. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2740894714) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-3. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2740756135) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-4. ❗ Opened issue [#581](https://github.com/google-gemini/cookbook/issues/581) in [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
-5. 🔒 Closed issue [#39](https://github.com/learntocloud/linux-ctfs/issues/39) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+1. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2743576661) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+2. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2741006897) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+3. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2740894714) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+4. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2740756135) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+5. ❗ Opened issue [#581](https://github.com/google-gemini/cookbook/issues/581) in [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 <!--END_SECTION:activity-->
 
 <br/>
