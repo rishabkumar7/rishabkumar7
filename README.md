@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/rishabkumar7/CloudNotes/pull/10) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-2. 💪 Opened PR [#10](https://github.com/rishabkumar7/CloudNotes/pull/10) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-3. 🗣 Commented on [#18](https://github.com/rishabkumar7/devops-qr-code/pull/18#issuecomment-2746338322) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
-4. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2743576661) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-5. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2741006897) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+1. ❗ Opened issue [#1](https://github.com/rishabkumar7/aws-sentinel/issues/1) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
+2. 🎉 Merged PR [#10](https://github.com/rishabkumar7/CloudNotes/pull/10) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+3. 💪 Opened PR [#10](https://github.com/rishabkumar7/CloudNotes/pull/10) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+4. 🗣 Commented on [#18](https://github.com/rishabkumar7/devops-qr-code/pull/18#issuecomment-2746338322) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
+5. 🗣 Commented on [#40](https://github.com/learntocloud/linux-ctfs/issues/40#issuecomment-2743576661) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
 <!--END_SECTION:activity-->
 
 <br/>
