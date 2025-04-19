@@ -66,11 +66,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/learntocloud/learn-to-cloud/pull/239#issuecomment-2816364663) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. ❗ Opened issue [#1](https://github.com/rishabkumar7/aws-sentinel/issues/1) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
-3. 🎉 Merged PR [#10](https://github.com/rishabkumar7/CloudNotes/pull/10) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-4. 💪 Opened PR [#10](https://github.com/rishabkumar7/CloudNotes/pull/10) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
-5. 🗣 Commented on [#18](https://github.com/rishabkumar7/devops-qr-code/pull/18#issuecomment-2746338322) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
+1. 🔒 Closed issue [#1](https://github.com/rishabkumar7/aws-sentinel/issues/1) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
+2. 🗣 Commented on [#1](https://github.com/rishabkumar7/aws-sentinel/issues/1#issuecomment-2816549498) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
+3. 🎉 Merged PR [#2](https://github.com/rishabkumar7/aws-sentinel/pull/2) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
+4. 💪 Opened PR [#2](https://github.com/rishabkumar7/aws-sentinel/pull/2) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
+5. 🎉 Merged PR [#239](https://github.com/learntocloud/learn-to-cloud/pull/239) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
 
 <br/>
