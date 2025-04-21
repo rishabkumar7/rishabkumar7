@@ -23,7 +23,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Docker Model Runner in 7 mins](https://www.youtube.com/watch?v=sahpNW9AtEA)
+- [Docker Model Runner in 7 mins | Run AI Models locally with Docker](https://www.youtube.com/watch?v=sahpNW9AtEA)
 - [How I passed the GCP Professional Cloud Security Certification](https://www.youtube.com/watch?v=UYWWCxmcyM8)
 - [What is MCP? Model Context Protocol Explained | MCP in VSCode with Copilot](https://www.youtube.com/watch?v=5y9wl_r_tfE)
 - [come with me as I sit the GCP Google Cloud Security exam! #google #security](https://www.youtube.com/watch?v=APt_TiyiPy4)
