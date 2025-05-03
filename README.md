@@ -1,6 +1,7 @@
 ### Hi there I am [Rishab](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=rishabkumar7&color=blueviolet&label=GitHub+PROFILE+VIEWS)
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=rishabkumar7&color=blueviolet&label=GitHub+PROFILE+VIEWS)](https://github.com/rishabkumar7)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rishabincloud)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabkumar7)
