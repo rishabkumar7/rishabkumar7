@@ -1,8 +1,7 @@
 ### Hi there I am [Rishab](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=rishabkumar7&color=blueviolet&label=GitHub+PROFILE+VIEWS)](https://github.com/rishabkumar7)
-
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=rishabkumar7&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/rishabkumar7)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rishabincloud)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabkumar7)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@rishabkumar7) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rishabincloud)
