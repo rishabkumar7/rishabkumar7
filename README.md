@@ -24,11 +24,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [what is kubernetes? explained! #cloud #devops #kubernetes](https://www.youtube.com/watch?v=ur9juTu40cY)
 - [locked-in #2025goals #motivation](https://www.youtube.com/watch?v=pwk6SKP3Dcw)
 - [How I passed the KCNA Certification | Kubernetes and Cloud Native Associate](https://www.youtube.com/watch?v=6no8zauQH88)
 - [Docker Model Runner in 7 mins | Run AI Models locally with Docker](https://www.youtube.com/watch?v=sahpNW9AtEA)
 - [How I passed the GCP Professional Cloud Security Certification](https://www.youtube.com/watch?v=UYWWCxmcyM8)
-- [What is MCP? Model Context Protocol Explained | MCP in VSCode with Copilot](https://www.youtube.com/watch?v=5y9wl_r_tfE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
