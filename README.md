@@ -24,7 +24,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to Lock In!](https://www.youtube.com/watch?v=GJ2yLNViV7k)
+- [How to Lock In! | Here are steps you need to follow](https://www.youtube.com/watch?v=GJ2yLNViV7k)
 - [what is kubernetes? explained! #cloud #devops #kubernetes](https://www.youtube.com/watch?v=ur9juTu40cY)
 - [locked-in #2025goals #motivation](https://www.youtube.com/watch?v=pwk6SKP3Dcw)
 - [How I passed the KCNA Certification | Kubernetes and Cloud Native Associate](https://www.youtube.com/watch?v=6no8zauQH88)
