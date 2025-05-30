@@ -67,7 +67,7 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/rishabkumar7/aws-sentinel/issues/1) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
+1. 🗣 Commented on [#243](https://github.com/learntocloud/learn-to-cloud/pull/243#issuecomment-2920162747) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 2. 🗣 Commented on [#1](https://github.com/rishabkumar7/aws-sentinel/issues/1#issuecomment-2816549498) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
 3. 🎉 Merged PR [#2](https://github.com/rishabkumar7/aws-sentinel/pull/2) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
 4. 💪 Opened PR [#2](https://github.com/rishabkumar7/aws-sentinel/pull/2) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
