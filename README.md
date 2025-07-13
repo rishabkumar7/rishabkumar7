@@ -67,9 +67,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#237](https://github.com/learntocloud/learn-to-cloud/pull/237) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🎉 Merged PR [#32](https://github.com/learntocloud/linux-ctfs/pull/32) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-3. 🗣 Commented on [#32](https://github.com/learntocloud/linux-ctfs/pull/32#issuecomment-2967219728) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+1. 🎉 Merged PR [#4](https://github.com/rishabkumar7/rishab-cloud/pull/4) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
+2. 💪 Opened PR [#4](https://github.com/rishabkumar7/rishab-cloud/pull/4) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
+3. 🎉 Merged PR [#237](https://github.com/learntocloud/learn-to-cloud/pull/237) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 4. 🗣 Commented on [#243](https://github.com/learntocloud/learn-to-cloud/pull/243#issuecomment-2920162747) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 5. 🎉 Merged PR [#239](https://github.com/learntocloud/learn-to-cloud/pull/239) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 <!--END_SECTION:activity-->
