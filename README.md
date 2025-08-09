@@ -24,11 +24,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [From Cloud Engineer to DevOps Engineer | My Career Journey Without a CS Degree](https://www.youtube.com/watch?v=L7NyYB60MDo)
 - [Future of Developer Education with AI](https://www.youtube.com/shorts/LQwGxZwsRCk)
 - [How I passed Google Cloud Generative AI Leader Exam](https://www.youtube.com/watch?v=RdRVM_I3Rf4)
 - [The future of Developer Relations &lpar;DevRel&rpar; – what to expect?](https://www.youtube.com/watch?v=x6kTNArg2FY)
 - [AI Voice Assistant with Google Gemini and Twilio](https://www.youtube.com/watch?v=Wunrf0PbAZY)
-- [Top Google Cloud Services to start with in 2025](https://www.youtube.com/watch?v=NPuDIIO0ZUo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
