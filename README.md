@@ -67,7 +67,7 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/learntocloud/linux-ctfs/pull/45#issuecomment-3094779821) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+1. 🔒 Closed issue [#1](https://github.com/rishabkumar7/cr-demo-python/issues/1) in [rishabkumar7/cr-demo-python](https://github.com/rishabkumar7/cr-demo-python)
 2. 🎉 Merged PR [#4](https://github.com/rishabkumar7/rishab-cloud/pull/4) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
 3. 💪 Opened PR [#4](https://github.com/rishabkumar7/rishab-cloud/pull/4) in [rishabkumar7/rishab-cloud](https://github.com/rishabkumar7/rishab-cloud)
 4. 🗣 Commented on [#243](https://github.com/learntocloud/learn-to-cloud/pull/243#issuecomment-2920162747) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
