@@ -24,7 +24,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Docker Offload and Docker Model Runner AI Model](https://www.youtube.com/watch?v=zk5VYDFqiIM)
+- [Docker Offload to run AI models!](https://www.youtube.com/watch?v=zk5VYDFqiIM)
 - [Future of Developer Relations - where DevRel is headed?](https://www.youtube.com/shorts/pXAyt8jnDmA)
 - [Run OpenAI Models Locally with Ollama for FREE](https://www.youtube.com/watch?v=8xE7lah8Vz8)
 - [From Cloud Engineer to DevOps Engineer | My Career Journey Without a CS Degree](https://www.youtube.com/watch?v=L7NyYB60MDo)
