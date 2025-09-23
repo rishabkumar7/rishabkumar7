@@ -67,11 +67,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rishabkumar7/twilio-cr-byom/pull/2) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
-2. 🎉 Merged PR [#3](https://github.com/rishabkumar7/twilio-cr-byom/pull/3) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
-3. 💪 Opened PR [#3](https://github.com/rishabkumar7/twilio-cr-byom/pull/3) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
-4. 💪 Opened PR [#2](https://github.com/rishabkumar7/twilio-cr-byom/pull/2) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
-5. 🗣 Commented on [#49](https://github.com/learntocloud/linux-ctfs/pull/49#issuecomment-3266825440) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+1. 🗣 Commented on [#22](https://github.com/rishabkumar7/devops-qr-code/pull/22#issuecomment-3320400410) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
+2. 🎉 Merged PR [#2](https://github.com/rishabkumar7/twilio-cr-byom/pull/2) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+3. 🎉 Merged PR [#3](https://github.com/rishabkumar7/twilio-cr-byom/pull/3) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+4. 💪 Opened PR [#3](https://github.com/rishabkumar7/twilio-cr-byom/pull/3) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+5. 💪 Opened PR [#2](https://github.com/rishabkumar7/twilio-cr-byom/pull/2) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
 <!--END_SECTION:activity-->
 
 <br/>
