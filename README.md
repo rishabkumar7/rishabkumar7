@@ -67,8 +67,8 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/learntocloud/learn-to-cloud/pull/266#issuecomment-3586908926) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🗣 Commented on [#22](https://github.com/rishabkumar7/devops-qr-code/pull/22#issuecomment-3320400410) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
+1. 💪 Opened PR [#18](undefined) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+2. 🗣 Commented on [#266](https://github.com/learntocloud/learn-to-cloud/pull/266#issuecomment-3586908926) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 3. 💪 Opened PR [#3](undefined) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
 4. 💪 Opened PR [#2](undefined) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
 5. 🎉 Merged PR [#3](https://github.com/rishabkumar7/twilio-cr-byom/pull/3) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
