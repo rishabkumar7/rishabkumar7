@@ -24,11 +24,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [You need to hear this today.](https://www.youtube.com/shorts/BH7qUEv0AN4)
 - [Vibe coding with Gemini 3 | Google AI Studio](https://www.youtube.com/watch?v=Gk9JpLd5SRM)
 - [I participated in the coolest hackathon! #tech #awsreinvent #hackathon](https://www.youtube.com/shorts/nlKHeCwc56E)
 - [How I passed Kubernetes KCNA Certification Exam #devops #kubernetes](https://www.youtube.com/shorts/mvADfMvhdQs)
 - [How I passed the Kubernetes KCNA certification  #kubernetes #devops](https://www.youtube.com/shorts/H5CjIHBZVf8)
-- [Two things that changed my life](https://www.youtube.com/watch?v=Lnz65Hhag2U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
