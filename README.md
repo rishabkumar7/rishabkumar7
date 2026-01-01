@@ -67,11 +67,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#15](https://github.com/rishabkumar7/the-devops-guide/issues/15) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+1. ℹ️ Assigned issue [#15](https://github.com/rishabkumar7/the-devops-guide/issues/15) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 2. 🔒 Closed issue [#15](https://github.com/rishabkumar7/the-devops-guide/issues/15) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 3. 🗣 Commented on [#15](https://github.com/rishabkumar7/the-devops-guide/issues/15#issuecomment-3700878178) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 4. 🗣 Commented on [#59](https://github.com/rishabkumar7/cloud-resume-api/pull/59#issuecomment-3632912302) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-5. ❌ Merged PR [#5](undefined) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+5. 🎉 Merged PR [#5](https://github.com/rishabkumar7/twilio-cr-byom/pull/5) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
 <!--END_SECTION:activity-->
 
 <br/>
