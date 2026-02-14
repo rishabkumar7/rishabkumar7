@@ -24,11 +24,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [have you asked your partner for valentines!? #code #valentine #vibecoding](https://www.youtube.com/shorts/SXkm3P7MA4I)
 - [Answering your Questions | Yearly QnA 2025](https://www.youtube.com/watch?v=_UTcMBZKCCc)
 - [Google Antigravity First Impressions DevOps Engineer | Google&#39;s AI IDE](https://www.youtube.com/watch?v=WO7GWmp4IGw)
 - [AWS Community Builders Program | Applications open 2026](https://www.youtube.com/watch?v=vXBjiv6khsU)
 - [You need to hear this today.](https://www.youtube.com/shorts/BH7qUEv0AN4)
-- [Vibe coding with Gemini 3 | Google AI Studio](https://www.youtube.com/watch?v=Gk9JpLd5SRM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
