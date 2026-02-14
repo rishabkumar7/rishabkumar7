@@ -67,8 +67,8 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/learntocloud/networking-lab/pull/6) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-2. ℹ️ Labeled issue [#203](https://github.com/githubevents/open-source-friday/issues/203) in [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday)
+1. 🎉 Merged PR [#6](https://github.com/learntocloud/networking-lab/pull/6) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+2. 💪 Opened PR [#6](https://github.com/learntocloud/networking-lab/pull/6) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
 3. ℹ️ Labeled issue [#203](https://github.com/githubevents/open-source-friday/issues/203) in [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday)
 4. ℹ️ Labeled issue [#203](https://github.com/githubevents/open-source-friday/issues/203) in [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday)
 5. ℹ️ Labeled issue [#203](https://github.com/githubevents/open-source-friday/issues/203) in [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday)
