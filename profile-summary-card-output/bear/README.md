@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/bear/4-productive-time.svg)
-```
-
-    
