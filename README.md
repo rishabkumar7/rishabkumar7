@@ -69,9 +69,9 @@ For future use
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#70](https://github.com/learntocloud/linux-ctfs/issues/70#issuecomment-3994271978) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
 2. 🎉 Merged PR [#6](https://github.com/learntocloud/networking-lab/pull/6) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-3. 💪 Opened PR [#6](https://github.com/learntocloud/networking-lab/pull/6) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-4. ℹ️ Labeled issue [#203](https://github.com/githubevents/open-source-friday/issues/203) in [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday)
-5. ℹ️ Labeled issue [#203](https://github.com/githubevents/open-source-friday/issues/203) in [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday)
+3. ℹ️ Assigned issue [#5](https://github.com/learntocloud/devops-lab/issues/5) in [learntocloud/devops-lab](https://github.com/learntocloud/devops-lab)
+4. ❗ Opened issue [#5](https://github.com/learntocloud/devops-lab/issues/5) in [learntocloud/devops-lab](https://github.com/learntocloud/devops-lab)
+5. 💪 Opened PR [#4](https://github.com/learntocloud/devops-lab/pull/4) in [learntocloud/devops-lab](https://github.com/learntocloud/devops-lab)
 <!--END_SECTION:activity-->
 
 <br/>
