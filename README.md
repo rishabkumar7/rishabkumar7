@@ -24,11 +24,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Navigating the Future of AI with Logan Kilpatrick | Google Deepmind](https://www.youtube.com/watch?v=swXyvtrz_nM)
 - [What are Agent Skills? How I use skills with my AI Coding Agents](https://www.youtube.com/watch?v=RHAd_6TUUIE)
 - [Don’t scroll on your phone!? #vibecoding](https://www.youtube.com/shorts/OSvk0ktV0fY)
 - [Learn Kubernetes with GKE on GCP minimal costs](https://www.youtube.com/watch?v=uLNBV7TPxWU)
 - [have you asked your partner for valentines!? #code #valentine #vibecoding](https://www.youtube.com/shorts/SXkm3P7MA4I)
-- [Answering your Questions | Yearly QnA 2025](https://www.youtube.com/watch?v=_UTcMBZKCCc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
