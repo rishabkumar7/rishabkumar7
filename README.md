@@ -67,9 +67,9 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/learntocloud/linux-ctfs/issues/70#issuecomment-3994271978) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-2. 🎉 Merged PR [#6](https://github.com/learntocloud/networking-lab/pull/6) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-3. ℹ️ Assigned issue [#5](https://github.com/learntocloud/devops-lab/issues/5) in [learntocloud/devops-lab](https://github.com/learntocloud/devops-lab)
+1. 🎉 Merged PR [#6](https://github.com/rishabkumar7/twilio-cr-byom/pull/6) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+2. 💪 Opened PR [#6](https://github.com/rishabkumar7/twilio-cr-byom/pull/6) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+3. 🗣 Commented on [#70](https://github.com/learntocloud/linux-ctfs/issues/70#issuecomment-3994271978) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
 4. ❗ Opened issue [#5](https://github.com/learntocloud/devops-lab/issues/5) in [learntocloud/devops-lab](https://github.com/learntocloud/devops-lab)
 5. 💪 Opened PR [#4](https://github.com/learntocloud/devops-lab/pull/4) in [learntocloud/devops-lab](https://github.com/learntocloud/devops-lab)
 <!--END_SECTION:activity-->
