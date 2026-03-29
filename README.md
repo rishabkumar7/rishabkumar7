@@ -67,11 +67,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/learntocloud/linux-ctfs/issues/71#issuecomment-4149282640) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-2. 🗣 Commented on [#71](https://github.com/learntocloud/linux-ctfs/issues/71#issuecomment-4148689694) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-3. 🗣 Commented on [#71](https://github.com/learntocloud/linux-ctfs/issues/71#issuecomment-4148269987) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-4. 🎉 Merged PR [#6](https://github.com/rishabkumar7/twilio-cr-byom/pull/6) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
-5. 💪 Opened PR [#6](https://github.com/rishabkumar7/twilio-cr-byom/pull/6) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
+1. 🗣 Commented on [#71](https://github.com/learntocloud/linux-ctfs/issues/71#issuecomment-4150377688) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+2. 🗣 Commented on [#71](https://github.com/learntocloud/linux-ctfs/issues/71#issuecomment-4149282640) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+3. 🗣 Commented on [#71](https://github.com/learntocloud/linux-ctfs/issues/71#issuecomment-4148689694) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+4. 🗣 Commented on [#71](https://github.com/learntocloud/linux-ctfs/issues/71#issuecomment-4148269987) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+5. 🎉 Merged PR [#6](https://github.com/rishabkumar7/twilio-cr-byom/pull/6) in [rishabkumar7/twilio-cr-byom](https://github.com/rishabkumar7/twilio-cr-byom)
 <!--END_SECTION:activity-->
 
 <br/>
