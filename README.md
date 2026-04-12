@@ -67,11 +67,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/learntocloud/networking-lab/issues/14#issuecomment-4230199552) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-2. 🗣 Commented on [#14](https://github.com/learntocloud/networking-lab/issues/14#issuecomment-4230121841) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-3. 🎉 Merged PR [#16](https://github.com/learntocloud/networking-lab/pull/16) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-4. 🔒 Closed issue [#15](https://github.com/learntocloud/networking-lab/issues/15) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-5. 🗣 Commented on [#15](https://github.com/learntocloud/networking-lab/issues/15#issuecomment-4165358026) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+1. 💪 Opened PR [#20](https://github.com/learntocloud/networking-lab/pull/20) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+2. 🔒 Closed issue [#14](https://github.com/learntocloud/networking-lab/issues/14) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+3. 🎉 Merged PR [#19](https://github.com/learntocloud/networking-lab/pull/19) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+4. 🗣 Commented on [#14](https://github.com/learntocloud/networking-lab/issues/14#issuecomment-4230681199) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+5. 💪 Opened PR [#19](https://github.com/learntocloud/networking-lab/pull/19) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
 <!--END_SECTION:activity-->
 
 <br/>
