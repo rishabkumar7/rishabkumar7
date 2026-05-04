@@ -67,11 +67,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/learntocloud/networking-lab/pull/22) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-2. 🗣 Commented on [#21](https://github.com/learntocloud/networking-lab/issues/21#issuecomment-4323790227) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-3. 🗣 Commented on [#21](https://github.com/learntocloud/networking-lab/issues/21#issuecomment-4316791448) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
-4. 🗣 Commented on [#581](https://github.com/google-gemini/cookbook/issues/581#issuecomment-4289384957) in [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
-5. 🎉 Merged PR [#20](https://github.com/learntocloud/networking-lab/pull/20) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+1. 🎉 Merged PR [#22](https://github.com/learntocloud/networking-lab/pull/22) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+2. 💪 Opened PR [#22](https://github.com/learntocloud/networking-lab/pull/22) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+3. 🗣 Commented on [#21](https://github.com/learntocloud/networking-lab/issues/21#issuecomment-4323790227) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+4. 🗣 Commented on [#21](https://github.com/learntocloud/networking-lab/issues/21#issuecomment-4316791448) in [learntocloud/networking-lab](https://github.com/learntocloud/networking-lab)
+5. 🗣 Commented on [#581](https://github.com/google-gemini/cookbook/issues/581#issuecomment-4289384957) in [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 <!--END_SECTION:activity-->
 
 <br/>
