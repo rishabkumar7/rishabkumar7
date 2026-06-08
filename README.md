@@ -60,11 +60,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/learntocloud/linux-ctfs/pull/107#issuecomment-4652105741) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-2. 💪 Opened PR [#107](https://github.com/learntocloud/linux-ctfs/pull/107) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-3. 🗣 Commented on [#100](https://github.com/learntocloud/linux-ctfs/issues/100#issuecomment-4606055808) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-4. 🗣 Commented on [#90](https://github.com/learntocloud/linux-ctfs/issues/90#issuecomment-4595869820) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-5. ℹ️ Unassigned issue [#100](https://github.com/learntocloud/linux-ctfs/issues/100) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+1. 🗣 Commented on [#90](https://github.com/learntocloud/linux-ctfs/issues/90#issuecomment-4653641585) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+2. 🗣 Commented on [#90](https://github.com/learntocloud/linux-ctfs/issues/90#issuecomment-4653633747) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+3. 🔒 Closed issue [#100](https://github.com/learntocloud/linux-ctfs/issues/100) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+4. 🎉 Merged PR [#107](https://github.com/learntocloud/linux-ctfs/pull/107) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+5. 🗣 Commented on [#100](https://github.com/learntocloud/linux-ctfs/issues/100#issuecomment-4653108015) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
 <!--END_SECTION:activity-->
 
 <br/>
