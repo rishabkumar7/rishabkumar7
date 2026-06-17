@@ -17,7 +17,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Running Gemma model on Azure Container Apps](https://www.youtube.com/watch?v=A4DP_hw-4pk)
+- [How to Run Local AI Models in the Cloud &lpar;Azure Container Apps&rpar;](https://www.youtube.com/watch?v=A4DP_hw-4pk)
 - [Looking to run AI models locally, you must know this! #ai #localllm](https://www.youtube.com/shorts/3nLmnJ_-6KE)
 - [The Best Hands-On Networking Lab &lpar;Cloud Based&rpar;](https://www.youtube.com/watch?v=poiUA7dDIQ8)
 - [Google released Gemma 4 and you can run it on your phone! #ai #google](https://www.youtube.com/shorts/NVC_wMo_35c)
