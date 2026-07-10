@@ -60,11 +60,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/agithony/twilio-cartoon-printer/pull/64) in [agithony/twilio-cartoon-printer](https://github.com/agithony/twilio-cartoon-printer)
-2. 💪 Opened PR [#114](https://github.com/docker/sbx-kits-contrib/pull/114) in [docker/sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib)
-3. 🔒 Closed issue [#114](https://github.com/learntocloud/linux-ctfs/issues/114) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-4. 🔒 Closed issue [#90](https://github.com/learntocloud/linux-ctfs/issues/90) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
-5. 🎉 Merged PR [#119](https://github.com/learntocloud/linux-ctfs/pull/119) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
+1. 💪 Opened PR [#2](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/2) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
+2. 💪 Opened PR [#1](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/1) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
+3. 🎉 Merged PR [#64](https://github.com/agithony/twilio-cartoon-printer/pull/64) in [agithony/twilio-cartoon-printer](https://github.com/agithony/twilio-cartoon-printer)
+4. 💪 Opened PR [#114](https://github.com/docker/sbx-kits-contrib/pull/114) in [docker/sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib)
+5. 🔒 Closed issue [#114](https://github.com/learntocloud/linux-ctfs/issues/114) in [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
 <!--END_SECTION:activity-->
 
 <br/>
