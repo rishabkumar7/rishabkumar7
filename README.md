@@ -60,11 +60,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/rishabkumar7/aws-sentinel/issues/3) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
-2. 💪 Opened PR [#4](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/4) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
-3. 💪 Opened PR [#3](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/3) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
-4. 💪 Opened PR [#2](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/2) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
-5. 💪 Opened PR [#1](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/1) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
+1. 🗣 Commented on [#689](https://github.com/learntocloud/learn-to-cloud-app/issues/689#issuecomment-5096034629) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+2. ❗ Opened issue [#3](https://github.com/rishabkumar7/aws-sentinel/issues/3) in [rishabkumar7/aws-sentinel](https://github.com/rishabkumar7/aws-sentinel)
+3. 💪 Opened PR [#4](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/4) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
+4. 💪 Opened PR [#3](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/3) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
+5. 💪 Opened PR [#2](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/2) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
 <!--END_SECTION:activity-->
 
 <br/>
