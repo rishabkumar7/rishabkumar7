@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -29,6 +39,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)
 ```
 
     
