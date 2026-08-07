@@ -17,11 +17,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Practical Guide to Local AI | Local AI Coding Mac Mini](https://www.youtube.com/watch?v=dlGncMYzRrI)
 - [things every cloud engineer says! #cloudcomputing #engineering](https://www.youtube.com/shorts/RRq_kqjKr_4)
 - [Spent Sunday Doing Anything But Scrolling](https://www.youtube.com/watch?v=Dj95MCEBaHI)
 - [The Future of Building: How AI is Turning Everyone into a Developer](https://www.youtube.com/watch?v=l0vkKmDEc0w)
 - [ever since I was a kid, I wanted to stare at yaml #cloudengineer #devops](https://www.youtube.com/shorts/4lwce6jRy1A)
-- [How to Run Local AI Models in the Cloud &lpar;Azure Container Apps&rpar;](https://www.youtube.com/watch?v=A4DP_hw-4pk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
