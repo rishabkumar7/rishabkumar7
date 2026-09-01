@@ -60,10 +60,10 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-2. 💪 Opened PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-3. 🗣 Commented on [#27](https://github.com/rishabkumar7/devops-qr-code/pull/27#issuecomment-5256259412) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
-4. 🗣 Commented on [#689](https://github.com/learntocloud/learn-to-cloud-app/issues/689#issuecomment-5096034629) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+1. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5497636250) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+2. 🎉 Merged PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+3. 💪 Opened PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+4. 🗣 Commented on [#27](https://github.com/rishabkumar7/devops-qr-code/pull/27#issuecomment-5256259412) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
 5. 💪 Opened PR [#2](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/2) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
 <!--END_SECTION:activity-->
 
