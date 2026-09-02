@@ -60,11 +60,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5497636250) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-2. 🎉 Merged PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-3. 💪 Opened PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-4. 🗣 Commented on [#27](https://github.com/rishabkumar7/devops-qr-code/pull/27#issuecomment-5256259412) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
-5. 💪 Opened PR [#2](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide/pull/2) in [ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide](https://github.com/ApramitBhattacharya/Google-Cloud-Professional-DevOps-Engineer-Certification-Guide)
+1. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5516672106) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+2. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5497636250) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+3. 🎉 Merged PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+4. 💪 Opened PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+5. 🗣 Commented on [#27](https://github.com/rishabkumar7/devops-qr-code/pull/27#issuecomment-5256259412) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
 <!--END_SECTION:activity-->
 
 <br/>
