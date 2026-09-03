@@ -60,11 +60,11 @@ For future use
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5516672106) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-2. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5497636250) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-3. 🎉 Merged PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-4. 💪 Opened PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
-5. 🗣 Commented on [#27](https://github.com/rishabkumar7/devops-qr-code/pull/27#issuecomment-5256259412) in [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code)
+1. 💪 Opened PR [#813](https://github.com/learntocloud/learn-to-cloud-app/pull/813) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+2. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5516672106) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+3. 🗣 Commented on [#742](https://github.com/learntocloud/learn-to-cloud-app/pull/742#issuecomment-5497636250) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+4. 🎉 Merged PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
+5. 💪 Opened PR [#748](https://github.com/learntocloud/learn-to-cloud-app/pull/748) in [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app)
 <!--END_SECTION:activity-->
 
 <br/>
