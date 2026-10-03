@@ -17,7 +17,7 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [8 lessonss after 8 years in tech indusrty](https://www.youtube.com/watch?v=nKRQyblj9x4)
+- [8 lessons after 8 years in tech indusrty](https://www.youtube.com/watch?v=nKRQyblj9x4)
 - [Practical Guide to Local AI | Local AI Coding Mac Mini](https://www.youtube.com/watch?v=dlGncMYzRrI)
 - [things every cloud engineer says! #cloudcomputing #engineering](https://www.youtube.com/shorts/RRq_kqjKr_4)
 - [Spent Sunday Doing Anything But Scrolling](https://www.youtube.com/watch?v=Dj95MCEBaHI)
