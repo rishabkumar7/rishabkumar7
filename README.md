@@ -17,11 +17,11 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How I passed Azure AI-103 Certification | Azure AI Apps and Agents Developer Associate](https://www.youtube.com/watch?v=3Ew7kLkv8gk)
 - [10 Claude Code tips in 120 seconds](https://www.youtube.com/watch?v=1cOHnndvUqk)
 - [Come with me to sit the Microsoft AI-103 Certification Exam!](https://www.youtube.com/shorts/Ku1l62JS6cw)
 - [8 lessons after 8 years in tech indusrty](https://www.youtube.com/watch?v=nKRQyblj9x4)
 - [Practical Guide to Local AI | Local AI Coding Mac Mini](https://www.youtube.com/watch?v=dlGncMYzRrI)
-- [things every cloud engineer says! #cloudcomputing #engineering](https://www.youtube.com/shorts/RRq_kqjKr_4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
